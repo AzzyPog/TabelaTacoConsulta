@@ -1,0 +1,22 @@
+{
+  "name": "Consulta TACO",
+  "short_name": "Tabela TACO",
+  "description": "Consulte informações nutricionais da Tabela TACO de forma rápida.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f4f4f9",
+  "theme_color": "#2980b9",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+

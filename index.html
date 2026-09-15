@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Consulta TACO</title>
+    
+    
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#2980b9">
+    <link rel="apple-touch-icon" href="icon-192.png">
+    
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            max-width: 600px; 
+            margin: 0 auto; 
+            padding: 20px; 
+            background-color: #f4f4f9; 
+        }
+        .search-container { position: relative; }
+        input[type="text"] { width: 100%; padding: 15px; font-size: 16px; border: 1px solid #ccc; border-radius: 8px; box-sizing: border-box;}
+        
+        .suggestions { 
+            position: absolute; top: 100%; left: 0; right: 0; 
+            background: white; border: 1px solid #ccc; 
+            border-top: none; border-radius: 0 0 8px 8px; 
+            max-height: 250px; overflow-y: auto; z-index: 10;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .suggestion-item { padding: 10px 15px; cursor: pointer; border-bottom: 1px solid #eee; }
+        .suggestion-item:hover { background-color: #f0f0f0; }
+        
+        .result-card { 
+            margin-top: 30px; padding: 20px; background: white; 
+            border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); 
+            display: none; 
+        }
+        .result-card h2 { margin-top: 0; color: #2c3e50; }
+        .nutrients { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+        .nutrient-box { background: #e8f4f8; padding: 10px; border-radius: 5px; text-align: center; }
+        .nutrient-box strong { display: block; color: #2980b9; font-size: 1.2em; }
+    </style>
+</head>
+<body>
+
+    <h1>Consulta Tabela TACO</h1>
+    <p>Pesquise por um alimento (ex: arroz, feijão, frango):</p>
+    
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Digite o nome do alimento..." autocomplete="off">
+        <div id="suggestionsBox" class="suggestions"></div>
+    </div>
+
+    <div id="resultCard" class="result-card">
+        <h2 id="alimentoNome">Nome do Alimento</h2>
+        <p><strong>Preparo:</strong> <span id="alimentoPreparo"></span></p>
+        
+        <div class="nutrients">
+            <div class="nutrient-box">Energia<br><strong id="nutKcal">0 kcal</strong></div>
+            <div class="nutrient-box">Carboidratos<br><strong id="nutCarb">0 g</strong></div>
+            <div class="nutrient-box">Proteínas<br><strong id="nutProt">0 g</strong></div>
+            <div class="nutrient-box">Gorduras<br><strong id="nutLip">0 g</strong></div>
+            <div class="nutrient-box">Fibras<br><strong id="nutFib">0 g</strong></div>
+        </div>
+    </div>
+
+    <script>
+        const searchInput = document.getElementById('searchInput');
+        const suggestionsBox = document.getElementById('suggestionsBox');
+        const resultCard = document.getElementById('resultCard');
+
+        let timeoutId = null;
+
+        searchInput.addEventListener('input', (e) => {
+            const query = e.target.value.trim();
+
+            if (query.length === 0) {
+                suggestionsBox.innerHTML = '';
+                return;
+            }
+
+            clearTimeout(timeoutId);
+            timeoutId = setTimeout(() => {
+                buscarAlimentos(query);
+            }, 300); 
+        });
+
+        async function buscarAlimentos(query) {
+            try {
+
+                const resposta = await fetch(`http://localhost:8000/api/buscar?q=${query}`);
+                const alimentos = await resposta.json();
+                
+                mostrarSugestoes(alimentos);
+            } catch (error) {
+                console.error("Erro ao buscar dados:", error);
+            }
+        }
+
+        function mostrarSugestoes(alimentos) {
+            suggestionsBox.innerHTML = ''; 
+            
+            alimentos.forEach(alimento => {
+                const div = document.createElement('div');
+                div.className = 'suggestion-item';
+                div.textContent = alimento.descricao;
+
+                div.addEventListener('click', () => {
+                    exibirDetalhes(alimento);
+                    suggestionsBox.innerHTML = ''; 
+                    searchInput.value = alimento.descricao; 
+                });
+                
+                suggestionsBox.appendChild(div);
+            });
+        }
+
+        function exibirDetalhes(alimento) {
+            document.getElementById('alimentoNome').textContent = alimento.descricao;
+            document.getElementById('alimentoPreparo').textContent = alimento.estado_preparo;
+            
+            const numStr = (num) => num !== null ? num.toString().replace('.', ',') : '0';
+
+            document.getElementById('nutKcal').textContent = numStr(alimento.nutrientes.energia_kcal) + ' kcal';
+            document.getElementById('nutCarb').textContent = numStr(alimento.nutrientes.carboidrato_g) + ' g';
+            document.getElementById('nutProt').textContent = numStr(alimento.nutrientes.proteina_g) + ' g';
+            document.getElementById('nutLip').textContent = numStr(alimento.nutrientes.lipideos_g) + ' g';
+            document.getElementById('nutFib').textContent = numStr(alimento.nutrientes.fibra_g) + ' g';
+
+            resultCard.style.display = 'block';
+        }
+
+        document.addEventListener('click', (e) => {
+            if (!searchInput.contains(e.target)) {
+                suggestionsBox.innerHTML = '';
+            }
+        });
+
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('sw.js')
+                    .then(registration => {
+                        console.log('ServiceWorker registrado com sucesso!', registration.scope);
+                    })
+                    .catch(err => {
+                        console.log('Falha ao registrar o ServiceWorker: ', err);
+                    });
+            });
+        }
+    </script>
+</body>
+</html>
+

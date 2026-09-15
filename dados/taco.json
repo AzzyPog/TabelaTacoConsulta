@@ -1,0 +1,6938 @@
+[
+  {
+    "codigo": 1,
+    "descricao": "Arroz, integral, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 124.0,
+      "proteina_g": 2.6,
+      "lipideos_g": 1.0,
+      "carboidrato_g": 25.8,
+      "fibra_g": 2.7
+    }
+  },
+  {
+    "codigo": 2,
+    "descricao": "Arroz, integral, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 360.0,
+      "proteina_g": 7.3,
+      "lipideos_g": 1.9,
+      "carboidrato_g": 77.5,
+      "fibra_g": 4.8
+    }
+  },
+  {
+    "codigo": 3,
+    "descricao": "Arroz, tipo 1, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 128.0,
+      "proteina_g": 2.5,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 28.1,
+      "fibra_g": 1.6
+    }
+  },
+  {
+    "codigo": 4,
+    "descricao": "Arroz, tipo 1, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 358.0,
+      "proteina_g": 7.2,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 78.8,
+      "fibra_g": 1.6
+    }
+  },
+  {
+    "codigo": 5,
+    "descricao": "Arroz, tipo 2, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 130.0,
+      "proteina_g": 2.6,
+      "lipideos_g": 0.4,
+      "carboidrato_g": 28.2,
+      "fibra_g": 1.1
+    }
+  },
+  {
+    "codigo": 6,
+    "descricao": "Arroz, tipo 2, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 358.0,
+      "proteina_g": 7.2,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 78.9,
+      "fibra_g": 1.7
+    }
+  },
+  {
+    "codigo": 7,
+    "descricao": "Aveia, flocos, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 394.0,
+      "proteina_g": 13.9,
+      "lipideos_g": 8.5,
+      "carboidrato_g": 66.6,
+      "fibra_g": 9.1
+    }
+  },
+  {
+    "codigo": 8,
+    "descricao": "Biscoito, doce, maisena",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 443.0,
+      "proteina_g": 8.1,
+      "lipideos_g": 12.0,
+      "carboidrato_g": 75.2,
+      "fibra_g": 2.1
+    }
+  },
+  {
+    "codigo": 9,
+    "descricao": "Biscoito, doce, recheado com chocolate",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 472.0,
+      "proteina_g": 6.4,
+      "lipideos_g": 19.6,
+      "carboidrato_g": 70.5,
+      "fibra_g": 3.0
+    }
+  },
+  {
+    "codigo": 10,
+    "descricao": "Biscoito, doce, recheado com morango",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 471.0,
+      "proteina_g": 5.7,
+      "lipideos_g": 19.6,
+      "carboidrato_g": 71.0,
+      "fibra_g": 1.5
+    }
+  },
+  {
+    "codigo": 11,
+    "descricao": "Biscoito, doce, wafer, recheado de chocolate",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 502.0,
+      "proteina_g": 5.6,
+      "lipideos_g": 24.7,
+      "carboidrato_g": 67.5,
+      "fibra_g": 1.8
+    }
+  },
+  {
+    "codigo": 12,
+    "descricao": "Biscoito, doce, wafer, recheado de morango",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 513.0,
+      "proteina_g": 4.5,
+      "lipideos_g": 26.4,
+      "carboidrato_g": 67.4,
+      "fibra_g": 0.8
+    }
+  },
+  {
+    "codigo": 13,
+    "descricao": "Biscoito, salgado, cream cracker",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 432.0,
+      "proteina_g": 10.1,
+      "lipideos_g": 14.4,
+      "carboidrato_g": 68.7,
+      "fibra_g": 2.5
+    }
+  },
+  {
+    "codigo": 14,
+    "descricao": "Bolo, mistura para",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 419.0,
+      "proteina_g": 6.2,
+      "lipideos_g": 6.1,
+      "carboidrato_g": 84.7,
+      "fibra_g": 1.7
+    }
+  },
+  {
+    "codigo": 15,
+    "descricao": "Bolo, pronto, aipim",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 324.0,
+      "proteina_g": 4.4,
+      "lipideos_g": 12.7,
+      "carboidrato_g": 47.9,
+      "fibra_g": 0.7
+    }
+  },
+  {
+    "codigo": 16,
+    "descricao": "Bolo, pronto, chocolate",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 410.0,
+      "proteina_g": 6.2,
+      "lipideos_g": 18.5,
+      "carboidrato_g": 54.7,
+      "fibra_g": 1.4
+    }
+  },
+  {
+    "codigo": 17,
+    "descricao": "Bolo, pronto, coco",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 333.0,
+      "proteina_g": 5.7,
+      "lipideos_g": 11.3,
+      "carboidrato_g": 52.3,
+      "fibra_g": 1.1
+    }
+  },
+  {
+    "codigo": 18,
+    "descricao": "Bolo, pronto, milho",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 311.0,
+      "proteina_g": 4.8,
+      "lipideos_g": 12.4,
+      "carboidrato_g": 45.1,
+      "fibra_g": 0.7
+    }
+  },
+  {
+    "codigo": 19,
+    "descricao": "Canjica, branca, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 358.0,
+      "proteina_g": 7.2,
+      "lipideos_g": 1.0,
+      "carboidrato_g": 78.1,
+      "fibra_g": 5.5
+    }
+  },
+  {
+    "codigo": 20,
+    "descricao": "Canjica, com leite integral",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 112.0,
+      "proteina_g": 2.4,
+      "lipideos_g": 1.2,
+      "carboidrato_g": 23.6,
+      "fibra_g": 1.2
+    }
+  },
+  {
+    "codigo": 21,
+    "descricao": "Cereais, milho, flocos, com sal",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 370.0,
+      "proteina_g": 7.3,
+      "lipideos_g": 1.6,
+      "carboidrato_g": 80.8,
+      "fibra_g": 5.3
+    }
+  },
+  {
+    "codigo": 22,
+    "descricao": "Cereais, milho, flocos, sem sal",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 363.0,
+      "proteina_g": 6.9,
+      "lipideos_g": 1.2,
+      "carboidrato_g": 80.4,
+      "fibra_g": 1.8
+    }
+  },
+  {
+    "codigo": 23,
+    "descricao": "Cereais, mingau, milho, infantil",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 394.0,
+      "proteina_g": 6.4,
+      "lipideos_g": 1.1,
+      "carboidrato_g": 87.3,
+      "fibra_g": 3.2
+    }
+  },
+  {
+    "codigo": 24,
+    "descricao": "Cereais, mistura para vitamina, trigo, cevada e aveia",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 381.0,
+      "proteina_g": 8.9,
+      "lipideos_g": 2.1,
+      "carboidrato_g": 81.6,
+      "fibra_g": 5.0
+    }
+  },
+  {
+    "codigo": 25,
+    "descricao": "Cereal matinal, milho",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 365.0,
+      "proteina_g": 7.2,
+      "lipideos_g": 1.0,
+      "carboidrato_g": 83.8,
+      "fibra_g": 4.1
+    }
+  },
+  {
+    "codigo": 26,
+    "descricao": "Cereal matinal, milho, açúcar",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 377.0,
+      "proteina_g": 4.7,
+      "lipideos_g": 0.7,
+      "carboidrato_g": 88.8,
+      "fibra_g": 2.1
+    }
+  },
+  {
+    "codigo": 27,
+    "descricao": "Creme de arroz, pó",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 386.0,
+      "proteina_g": 7.0,
+      "lipideos_g": 1.2,
+      "carboidrato_g": 83.9,
+      "fibra_g": 1.1
+    }
+  },
+  {
+    "codigo": 28,
+    "descricao": "Creme de milho, pó",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 333.0,
+      "proteina_g": 4.8,
+      "lipideos_g": 1.6,
+      "carboidrato_g": 86.1,
+      "fibra_g": 3.7
+    }
+  },
+  {
+    "codigo": 29,
+    "descricao": "Curau, milho verde",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 78.0,
+      "proteina_g": 2.4,
+      "lipideos_g": 1.6,
+      "carboidrato_g": 13.9,
+      "fibra_g": 0.5
+    }
+  },
+  {
+    "codigo": 30,
+    "descricao": "Curau, milho verde, mistura para",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 402.0,
+      "proteina_g": 2.2,
+      "lipideos_g": 13.4,
+      "carboidrato_g": 79.8,
+      "fibra_g": 2.5
+    }
+  },
+  {
+    "codigo": 31,
+    "descricao": "Farinha, de arroz, enriquecida",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 363.0,
+      "proteina_g": 1.3,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 85.5,
+      "fibra_g": 0.6
+    }
+  },
+  {
+    "codigo": 32,
+    "descricao": "Farinha, de centeio, integral",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 336.0,
+      "proteina_g": 12.5,
+      "lipideos_g": 1.8,
+      "carboidrato_g": 73.3,
+      "fibra_g": 15.5
+    }
+  },
+  {
+    "codigo": 33,
+    "descricao": "Farinha, de milho, amarela",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 351.0,
+      "proteina_g": 7.2,
+      "lipideos_g": 1.5,
+      "carboidrato_g": 79.1,
+      "fibra_g": 5.5
+    }
+  },
+  {
+    "codigo": 34,
+    "descricao": "Farinha, de rosca",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 371.0,
+      "proteina_g": 11.4,
+      "lipideos_g": 1.5,
+      "carboidrato_g": 75.8,
+      "fibra_g": 4.8
+    }
+  },
+  {
+    "codigo": 35,
+    "descricao": "Farinha, de trigo",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 360.0,
+      "proteina_g": 9.8,
+      "lipideos_g": 1.4,
+      "carboidrato_g": 75.1,
+      "fibra_g": 2.3
+    }
+  },
+  {
+    "codigo": 36,
+    "descricao": "Farinha, láctea, de cereais",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 415.0,
+      "proteina_g": 11.9,
+      "lipideos_g": 5.8,
+      "carboidrato_g": 77.8,
+      "fibra_g": 1.9
+    }
+  },
+  {
+    "codigo": 37,
+    "descricao": "Lasanha, massa fresca, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 164.0,
+      "proteina_g": 5.8,
+      "lipideos_g": 1.2,
+      "carboidrato_g": 32.5,
+      "fibra_g": 1.6
+    }
+  },
+  {
+    "codigo": 38,
+    "descricao": "Lasanha, massa fresca, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 220.0,
+      "proteina_g": 7.0,
+      "lipideos_g": 1.3,
+      "carboidrato_g": 45.1,
+      "fibra_g": 1.6
+    }
+  },
+  {
+    "codigo": 39,
+    "descricao": "Macarrão, instantâneo",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 436.0,
+      "proteina_g": 8.8,
+      "lipideos_g": 17.2,
+      "carboidrato_g": 62.4,
+      "fibra_g": 5.6
+    }
+  },
+  {
+    "codigo": 40,
+    "descricao": "Macarrão, trigo, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 371.0,
+      "proteina_g": 10.0,
+      "lipideos_g": 1.3,
+      "carboidrato_g": 77.9,
+      "fibra_g": 2.9
+    }
+  },
+  {
+    "codigo": 41,
+    "descricao": "Macarrão, trigo, cru, com ovos",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 371.0,
+      "proteina_g": 10.3,
+      "lipideos_g": 2.0,
+      "carboidrato_g": 76.6,
+      "fibra_g": 2.3
+    }
+  },
+  {
+    "codigo": 42,
+    "descricao": "Milho, amido, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 361.0,
+      "proteina_g": 0.6,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 87.1,
+      "fibra_g": 0.7
+    }
+  },
+  {
+    "codigo": 43,
+    "descricao": "Milho, fubá, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 353.0,
+      "proteina_g": 7.2,
+      "lipideos_g": 1.9,
+      "carboidrato_g": 78.9,
+      "fibra_g": 4.7
+    }
+  },
+  {
+    "codigo": 44,
+    "descricao": "Milho, verde, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 138.0,
+      "proteina_g": 6.6,
+      "lipideos_g": 0.6,
+      "carboidrato_g": 28.6,
+      "fibra_g": 3.9
+    }
+  },
+  {
+    "codigo": 45,
+    "descricao": "Milho, verde, enlatado, drenado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 98.0,
+      "proteina_g": 3.2,
+      "lipideos_g": 2.4,
+      "carboidrato_g": 17.1,
+      "fibra_g": 4.6
+    }
+  },
+  {
+    "codigo": 46,
+    "descricao": "Mingau tradicional, pó",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 373.0,
+      "proteina_g": 0.6,
+      "lipideos_g": 0.4,
+      "carboidrato_g": 89.3,
+      "fibra_g": 0.9
+    }
+  },
+  {
+    "codigo": 47,
+    "descricao": "Pamonha, barra para cozimento, pré-cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 171.0,
+      "proteina_g": 2.6,
+      "lipideos_g": 4.8,
+      "carboidrato_g": 30.7,
+      "fibra_g": 2.4
+    }
+  },
+  {
+    "codigo": 48,
+    "descricao": "Pão, aveia, forma",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 343.0,
+      "proteina_g": 12.4,
+      "lipideos_g": 5.7,
+      "carboidrato_g": 59.6,
+      "fibra_g": 6.0
+    }
+  },
+  {
+    "codigo": 49,
+    "descricao": "Pão, de soja",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 309.0,
+      "proteina_g": 11.3,
+      "lipideos_g": 3.6,
+      "carboidrato_g": 56.5,
+      "fibra_g": 5.7
+    }
+  },
+  {
+    "codigo": 50,
+    "descricao": "Pão, glúten, forma",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 253.0,
+      "proteina_g": 12.0,
+      "lipideos_g": 2.7,
+      "carboidrato_g": 44.1,
+      "fibra_g": 2.5
+    }
+  },
+  {
+    "codigo": 51,
+    "descricao": "Pão, milho, forma",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 292.0,
+      "proteina_g": 8.3,
+      "lipideos_g": 3.1,
+      "carboidrato_g": 56.4,
+      "fibra_g": 4.3
+    }
+  },
+  {
+    "codigo": 52,
+    "descricao": "Pão, trigo, forma, integral",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 253.0,
+      "proteina_g": 9.4,
+      "lipideos_g": 3.7,
+      "carboidrato_g": 49.9,
+      "fibra_g": 6.9
+    }
+  },
+  {
+    "codigo": 53,
+    "descricao": "Pão, trigo, francês",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 300.0,
+      "proteina_g": 8.0,
+      "lipideos_g": 3.1,
+      "carboidrato_g": 58.6,
+      "fibra_g": 2.3
+    }
+  },
+  {
+    "codigo": 54,
+    "descricao": "Pão, trigo, sovado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 311.0,
+      "proteina_g": 8.4,
+      "lipideos_g": 2.8,
+      "carboidrato_g": 61.5,
+      "fibra_g": 2.4
+    }
+  },
+  {
+    "codigo": 55,
+    "descricao": "Pastel, de carne, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 289.0,
+      "proteina_g": 10.7,
+      "lipideos_g": 8.8,
+      "carboidrato_g": 42.0,
+      "fibra_g": 1.0
+    }
+  },
+  {
+    "codigo": 56,
+    "descricao": "Pastel, de carne, frito",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 388.0,
+      "proteina_g": 10.1,
+      "lipideos_g": 20.1,
+      "carboidrato_g": 43.8,
+      "fibra_g": 1.0
+    }
+  },
+  {
+    "codigo": 57,
+    "descricao": "Pastel, de queijo, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 308.0,
+      "proteina_g": 9.9,
+      "lipideos_g": 9.6,
+      "carboidrato_g": 45.9,
+      "fibra_g": 1.1
+    }
+  },
+  {
+    "codigo": 58,
+    "descricao": "Pastel, de queijo, frito",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 422.0,
+      "proteina_g": 8.7,
+      "lipideos_g": 22.7,
+      "carboidrato_g": 48.1,
+      "fibra_g": 0.9
+    }
+  },
+  {
+    "codigo": 59,
+    "descricao": "Pastel, massa, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 310.0,
+      "proteina_g": 6.9,
+      "lipideos_g": 5.5,
+      "carboidrato_g": 57.4,
+      "fibra_g": 1.4
+    }
+  },
+  {
+    "codigo": 60,
+    "descricao": "Pastel, massa, frita",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 570.0,
+      "proteina_g": 6.0,
+      "lipideos_g": 40.9,
+      "carboidrato_g": 49.3,
+      "fibra_g": 1.3
+    }
+  },
+  {
+    "codigo": 61,
+    "descricao": "Pipoca, com óleo de soja, sem sal",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 448.0,
+      "proteina_g": 9.9,
+      "lipideos_g": 15.9,
+      "carboidrato_g": 70.3,
+      "fibra_g": 14.3
+    }
+  },
+  {
+    "codigo": 62,
+    "descricao": "Polenta, pré-cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 103.0,
+      "proteina_g": 2.3,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 23.3,
+      "fibra_g": 2.4
+    }
+  },
+  {
+    "codigo": 63,
+    "descricao": "Torrada, pão francês",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 377.0,
+      "proteina_g": 10.5,
+      "lipideos_g": 3.3,
+      "carboidrato_g": 74.6,
+      "fibra_g": 3.4
+    }
+  },
+  {
+    "codigo": 64,
+    "descricao": "Abóbora, cabotian, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 48.0,
+      "proteina_g": 1.4,
+      "lipideos_g": 0.7,
+      "carboidrato_g": 10.8,
+      "fibra_g": 2.5
+    }
+  },
+  {
+    "codigo": 65,
+    "descricao": "Abóbora, cabotian, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 39.0,
+      "proteina_g": 1.7,
+      "lipideos_g": 0.5,
+      "carboidrato_g": 8.4,
+      "fibra_g": 2.2
+    }
+  },
+  {
+    "codigo": 66,
+    "descricao": "Abóbora, menina brasileira, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 14.0,
+      "proteina_g": 0.6,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 3.3,
+      "fibra_g": 1.2
+    }
+  },
+  {
+    "codigo": 67,
+    "descricao": "Abóbora, moranga, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 12.0,
+      "proteina_g": 1.0,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 2.7,
+      "fibra_g": 1.7
+    }
+  },
+  {
+    "codigo": 68,
+    "descricao": "Abóbora, moranga, refogada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 29.0,
+      "proteina_g": 0.4,
+      "lipideos_g": 0.8,
+      "carboidrato_g": 6.0,
+      "fibra_g": 1.5
+    }
+  },
+  {
+    "codigo": 69,
+    "descricao": "Abobora, pescoço, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 24.0,
+      "proteina_g": 0.7,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 6.1,
+      "fibra_g": 2.3
+    }
+  },
+  {
+    "codigo": 70,
+    "descricao": "Abobrinha, italiana, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 15.0,
+      "proteina_g": 1.1,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 3.0,
+      "fibra_g": 1.6
+    }
+  },
+  {
+    "codigo": 71,
+    "descricao": "Abobrinha, italiana, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 19.0,
+      "proteina_g": 1.1,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 4.3,
+      "fibra_g": 1.4
+    }
+  },
+  {
+    "codigo": 72,
+    "descricao": "Abobrinha, italiana, refogada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 24.0,
+      "proteina_g": 1.1,
+      "lipideos_g": 0.8,
+      "carboidrato_g": 4.2,
+      "fibra_g": 1.4
+    }
+  },
+  {
+    "codigo": 73,
+    "descricao": "Abobrinha, paulista, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 31.0,
+      "proteina_g": 0.6,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 7.9,
+      "fibra_g": 2.6
+    }
+  },
+  {
+    "codigo": 74,
+    "descricao": "Acelga, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 21.0,
+      "proteina_g": 1.4,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 4.6,
+      "fibra_g": 1.1
+    }
+  },
+  {
+    "codigo": 75,
+    "descricao": "Agrião, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 17.0,
+      "proteina_g": 2.7,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 2.3,
+      "fibra_g": 2.1
+    }
+  },
+  {
+    "codigo": 76,
+    "descricao": "Aipo, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 19.0,
+      "proteina_g": 0.8,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 4.3,
+      "fibra_g": 1.0
+    }
+  },
+  {
+    "codigo": 77,
+    "descricao": "Alface, americana, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 9.0,
+      "proteina_g": 0.6,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 1.7,
+      "fibra_g": 1.0
+    }
+  },
+  {
+    "codigo": 78,
+    "descricao": "Alface, crespa, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 11.0,
+      "proteina_g": 1.3,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 1.7,
+      "fibra_g": 1.8
+    }
+  },
+  {
+    "codigo": 79,
+    "descricao": "Alface, lisa, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 14.0,
+      "proteina_g": 1.7,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 2.4,
+      "fibra_g": 2.3
+    }
+  },
+  {
+    "codigo": 80,
+    "descricao": "Alface, roxa, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 13.0,
+      "proteina_g": 0.9,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 2.5,
+      "fibra_g": 2.0
+    }
+  },
+  {
+    "codigo": 81,
+    "descricao": "Alfavaca, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 29.0,
+      "proteina_g": 2.7,
+      "lipideos_g": 0.5,
+      "carboidrato_g": 5.2,
+      "fibra_g": 4.1
+    }
+  },
+  {
+    "codigo": 82,
+    "descricao": "Alho, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 113.0,
+      "proteina_g": 7.0,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 23.9,
+      "fibra_g": 4.3
+    }
+  },
+  {
+    "codigo": 83,
+    "descricao": "Alho-poró, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 32.0,
+      "proteina_g": 1.4,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 6.9,
+      "fibra_g": 2.5
+    }
+  },
+  {
+    "codigo": 84,
+    "descricao": "Almeirão, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 18.0,
+      "proteina_g": 1.8,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 3.3,
+      "fibra_g": 2.6
+    }
+  },
+  {
+    "codigo": 85,
+    "descricao": "Almeirão, refogado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 65.0,
+      "proteina_g": 1.7,
+      "lipideos_g": 4.8,
+      "carboidrato_g": 5.7,
+      "fibra_g": 3.4
+    }
+  },
+  {
+    "codigo": 86,
+    "descricao": "Batata, baroa, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 80.0,
+      "proteina_g": 0.9,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 18.9,
+      "fibra_g": 1.8
+    }
+  },
+  {
+    "codigo": 87,
+    "descricao": "Batata, baroa, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 101.0,
+      "proteina_g": 1.0,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 24.0,
+      "fibra_g": 2.1
+    }
+  },
+  {
+    "codigo": 88,
+    "descricao": "Batata, doce, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 77.0,
+      "proteina_g": 0.6,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 18.4,
+      "fibra_g": 2.2
+    }
+  },
+  {
+    "codigo": 89,
+    "descricao": "Batata, doce, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 118.0,
+      "proteina_g": 1.3,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 28.2,
+      "fibra_g": 2.6
+    }
+  },
+  {
+    "codigo": 90,
+    "descricao": "Batata, frita, tipo chips, industrializada",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 543.0,
+      "proteina_g": 5.6,
+      "lipideos_g": 36.6,
+      "carboidrato_g": 51.2,
+      "fibra_g": 2.5
+    }
+  },
+  {
+    "codigo": 91,
+    "descricao": "Batata, inglesa, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 52.0,
+      "proteina_g": 1.2,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 11.9,
+      "fibra_g": 1.3
+    }
+  },
+  {
+    "codigo": 92,
+    "descricao": "Batata, inglesa, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 64.0,
+      "proteina_g": 1.8,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 14.7,
+      "fibra_g": 1.2
+    }
+  },
+  {
+    "codigo": 93,
+    "descricao": "Batata, inglesa, frita",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 267.0,
+      "proteina_g": 5.0,
+      "lipideos_g": 13.1,
+      "carboidrato_g": 35.6,
+      "fibra_g": 8.1
+    }
+  },
+  {
+    "codigo": 94,
+    "descricao": "Batata, inglesa, sauté",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 68.0,
+      "proteina_g": 1.3,
+      "lipideos_g": 0.9,
+      "carboidrato_g": 14.1,
+      "fibra_g": 1.4
+    }
+  },
+  {
+    "codigo": 95,
+    "descricao": "Berinjela, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 19.0,
+      "proteina_g": 0.7,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 4.5,
+      "fibra_g": 2.5
+    }
+  },
+  {
+    "codigo": 96,
+    "descricao": "Berinjela, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 20.0,
+      "proteina_g": 1.2,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 4.4,
+      "fibra_g": 2.9
+    }
+  },
+  {
+    "codigo": 97,
+    "descricao": "Beterraba, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 32.0,
+      "proteina_g": 1.3,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 7.2,
+      "fibra_g": 1.9
+    }
+  },
+  {
+    "codigo": 98,
+    "descricao": "Beterraba, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 49.0,
+      "proteina_g": 1.9,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 11.1,
+      "fibra_g": 3.4
+    }
+  },
+  {
+    "codigo": 99,
+    "descricao": "Biscoito, polvilho doce",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 438.0,
+      "proteina_g": 1.3,
+      "lipideos_g": 12.2,
+      "carboidrato_g": 80.5,
+      "fibra_g": 1.2
+    }
+  },
+  {
+    "codigo": 100,
+    "descricao": "Brócolis, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 25.0,
+      "proteina_g": 2.1,
+      "lipideos_g": 0.5,
+      "carboidrato_g": 4.4,
+      "fibra_g": 3.4
+    }
+  },
+  {
+    "codigo": 101,
+    "descricao": "Brócolis, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 25.0,
+      "proteina_g": 3.6,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 4.0,
+      "fibra_g": 2.9
+    }
+  },
+  {
+    "codigo": 102,
+    "descricao": "Cará, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 78.0,
+      "proteina_g": 1.5,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 18.9,
+      "fibra_g": 2.6
+    }
+  },
+  {
+    "codigo": 103,
+    "descricao": "Cará, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 96.0,
+      "proteina_g": 2.3,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 23.0,
+      "fibra_g": 7.3
+    }
+  },
+  {
+    "codigo": 104,
+    "descricao": "Caruru, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 34.0,
+      "proteina_g": 3.2,
+      "lipideos_g": 0.6,
+      "carboidrato_g": 6.0,
+      "fibra_g": 4.5
+    }
+  },
+  {
+    "codigo": 105,
+    "descricao": "Catalonha, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 24.0,
+      "proteina_g": 1.9,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 4.8,
+      "fibra_g": 2.0
+    }
+  },
+  {
+    "codigo": 106,
+    "descricao": "Catalonha, refogada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 63.0,
+      "proteina_g": 2.0,
+      "lipideos_g": 4.8,
+      "carboidrato_g": 4.8,
+      "fibra_g": 3.7
+    }
+  },
+  {
+    "codigo": 107,
+    "descricao": "Cebola, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 39.0,
+      "proteina_g": 1.7,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 8.9,
+      "fibra_g": 2.2
+    }
+  },
+  {
+    "codigo": 108,
+    "descricao": "Cebolinha, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 20.0,
+      "proteina_g": 1.9,
+      "lipideos_g": 0.4,
+      "carboidrato_g": 3.4,
+      "fibra_g": 3.6
+    }
+  },
+  {
+    "codigo": 109,
+    "descricao": "Cenoura, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 30.0,
+      "proteina_g": 0.8,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 6.7,
+      "fibra_g": 2.6
+    }
+  },
+  {
+    "codigo": 110,
+    "descricao": "Cenoura, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 34.0,
+      "proteina_g": 1.3,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 7.7,
+      "fibra_g": 3.2
+    }
+  },
+  {
+    "codigo": 111,
+    "descricao": "Chicória, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 14.0,
+      "proteina_g": 1.1,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 2.9,
+      "fibra_g": 2.2
+    }
+  },
+  {
+    "codigo": 112,
+    "descricao": "Chuchu, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 19.0,
+      "proteina_g": 0.4,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 4.8,
+      "fibra_g": 1.0
+    }
+  },
+  {
+    "codigo": 113,
+    "descricao": "Chuchu, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 17.0,
+      "proteina_g": 0.7,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 4.1,
+      "fibra_g": 1.3
+    }
+  },
+  {
+    "codigo": 114,
+    "descricao": "Coentro, folhas desidratadas",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 309.0,
+      "proteina_g": 20.9,
+      "lipideos_g": 10.4,
+      "carboidrato_g": 48.0,
+      "fibra_g": 37.3
+    }
+  },
+  {
+    "codigo": 115,
+    "descricao": "Couve, manteiga, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 27.0,
+      "proteina_g": 2.9,
+      "lipideos_g": 0.5,
+      "carboidrato_g": 4.3,
+      "fibra_g": 3.1
+    }
+  },
+  {
+    "codigo": 116,
+    "descricao": "Couve, manteiga, refogada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 90.0,
+      "proteina_g": 1.7,
+      "lipideos_g": 6.6,
+      "carboidrato_g": 8.7,
+      "fibra_g": 5.7
+    }
+  },
+  {
+    "codigo": 117,
+    "descricao": "Couve-flor, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 23.0,
+      "proteina_g": 1.9,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 4.5,
+      "fibra_g": 2.4
+    }
+  },
+  {
+    "codigo": 118,
+    "descricao": "Couve-flor, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 19.0,
+      "proteina_g": 1.2,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 3.9,
+      "fibra_g": 2.1
+    }
+  },
+  {
+    "codigo": 119,
+    "descricao": "Espinafre, Nova Zelândia, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 16.0,
+      "proteina_g": 2.0,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 2.6,
+      "fibra_g": 2.1
+    }
+  },
+  {
+    "codigo": 120,
+    "descricao": "Espinafre, Nova Zelândia, refogado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 67.0,
+      "proteina_g": 2.7,
+      "lipideos_g": 5.4,
+      "carboidrato_g": 4.2,
+      "fibra_g": 2.5
+    }
+  },
+  {
+    "codigo": 121,
+    "descricao": "Farinha, de mandioca, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 361.0,
+      "proteina_g": 1.6,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 87.9,
+      "fibra_g": 6.4
+    }
+  },
+  {
+    "codigo": 122,
+    "descricao": "Farinha, de mandioca, torrada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 365.0,
+      "proteina_g": 1.2,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 89.2,
+      "fibra_g": 6.5
+    }
+  },
+  {
+    "codigo": 123,
+    "descricao": "Farinha, de puba",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 360.0,
+      "proteina_g": 1.6,
+      "lipideos_g": 0.5,
+      "carboidrato_g": 87.3,
+      "fibra_g": 4.2
+    }
+  },
+  {
+    "codigo": 124,
+    "descricao": "Fécula, de mandioca",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 331.0,
+      "proteina_g": 0.5,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 81.1,
+      "fibra_g": 0.6
+    }
+  },
+  {
+    "codigo": 125,
+    "descricao": "Feijão, broto, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 39.0,
+      "proteina_g": 4.2,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 7.8,
+      "fibra_g": 2.0
+    }
+  },
+  {
+    "codigo": 126,
+    "descricao": "Inhame, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 97.0,
+      "proteina_g": 2.1,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 23.2,
+      "fibra_g": 1.7
+    }
+  },
+  {
+    "codigo": 127,
+    "descricao": "Jiló, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 27.0,
+      "proteina_g": 1.4,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 6.2,
+      "fibra_g": 4.8
+    }
+  },
+  {
+    "codigo": 128,
+    "descricao": "Jurubeba, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 126.0,
+      "proteina_g": 4.4,
+      "lipideos_g": 3.9,
+      "carboidrato_g": 23.1,
+      "fibra_g": 23.9
+    }
+  },
+  {
+    "codigo": 129,
+    "descricao": "Mandioca, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 125.0,
+      "proteina_g": 0.6,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 30.1,
+      "fibra_g": 1.6
+    }
+  },
+  {
+    "codigo": 130,
+    "descricao": "Mandioca, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 151.0,
+      "proteina_g": 1.1,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 36.2,
+      "fibra_g": 1.9
+    }
+  },
+  {
+    "codigo": 131,
+    "descricao": "Mandioca, farofa, temperada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 406.0,
+      "proteina_g": 2.1,
+      "lipideos_g": 9.1,
+      "carboidrato_g": 80.3,
+      "fibra_g": 7.8
+    }
+  },
+  {
+    "codigo": 132,
+    "descricao": "Mandioca, frita",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 300.0,
+      "proteina_g": 1.4,
+      "lipideos_g": 11.2,
+      "carboidrato_g": 50.3,
+      "fibra_g": 1.9
+    }
+  },
+  {
+    "codigo": 133,
+    "descricao": "Manjericão, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 21.0,
+      "proteina_g": 2.0,
+      "lipideos_g": 0.4,
+      "carboidrato_g": 3.6,
+      "fibra_g": 3.3
+    }
+  },
+  {
+    "codigo": 134,
+    "descricao": "Maxixe, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 14.0,
+      "proteina_g": 1.4,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 2.7,
+      "fibra_g": 2.2
+    }
+  },
+  {
+    "codigo": 135,
+    "descricao": "Mostarda, folha, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 18.0,
+      "proteina_g": 2.1,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 3.2,
+      "fibra_g": 1.9
+    }
+  },
+  {
+    "codigo": 136,
+    "descricao": "Nhoque, batata, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 181.0,
+      "proteina_g": 5.9,
+      "lipideos_g": 1.9,
+      "carboidrato_g": 36.8,
+      "fibra_g": 1.8
+    }
+  },
+  {
+    "codigo": 137,
+    "descricao": "Nabo, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 18.0,
+      "proteina_g": 1.2,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 4.1,
+      "fibra_g": 2.6
+    }
+  },
+  {
+    "codigo": 138,
+    "descricao": "Palmito, juçara, em conserva",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 23.0,
+      "proteina_g": 1.8,
+      "lipideos_g": 0.4,
+      "carboidrato_g": 4.3,
+      "fibra_g": 3.2
+    }
+  },
+  {
+    "codigo": 139,
+    "descricao": "Palmito, pupunha, em conserva",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 29.0,
+      "proteina_g": 2.5,
+      "lipideos_g": 0.5,
+      "carboidrato_g": 5.5,
+      "fibra_g": 2.6
+    }
+  },
+  {
+    "codigo": 140,
+    "descricao": "Pão, de queijo, assado",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 363.0,
+      "proteina_g": 5.1,
+      "lipideos_g": 24.6,
+      "carboidrato_g": 34.2,
+      "fibra_g": 0.6
+    }
+  },
+  {
+    "codigo": 141,
+    "descricao": "Pão, de queijo, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 295.0,
+      "proteina_g": 3.6,
+      "lipideos_g": 14.0,
+      "carboidrato_g": 38.5,
+      "fibra_g": 1.0
+    }
+  },
+  {
+    "codigo": 142,
+    "descricao": "Pepino, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 10.0,
+      "proteina_g": 0.9,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 2.0,
+      "fibra_g": 1.1
+    }
+  },
+  {
+    "codigo": 143,
+    "descricao": "Pimentão, amarelo, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 28.0,
+      "proteina_g": 1.2,
+      "lipideos_g": 0.4,
+      "carboidrato_g": 6.0,
+      "fibra_g": 1.9
+    }
+  },
+  {
+    "codigo": 144,
+    "descricao": "Pimentão, verde, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 21.0,
+      "proteina_g": 1.1,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 4.9,
+      "fibra_g": 2.6
+    }
+  },
+  {
+    "codigo": 145,
+    "descricao": "Pimentão, vermelho, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 23.0,
+      "proteina_g": 1.0,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 5.5,
+      "fibra_g": 1.6
+    }
+  },
+  {
+    "codigo": 146,
+    "descricao": "Polvilho, doce",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 351.0,
+      "proteina_g": 0.4,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 86.8,
+      "fibra_g": 0.2
+    }
+  },
+  {
+    "codigo": 147,
+    "descricao": "Quiabo, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 30.0,
+      "proteina_g": 1.9,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 6.4,
+      "fibra_g": 4.6
+    }
+  },
+  {
+    "codigo": 148,
+    "descricao": "Rabanete, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 14.0,
+      "proteina_g": 1.4,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 2.7,
+      "fibra_g": 2.2
+    }
+  },
+  {
+    "codigo": 149,
+    "descricao": "Repolho, branco, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 17.0,
+      "proteina_g": 0.9,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 3.9,
+      "fibra_g": 1.9
+    }
+  },
+  {
+    "codigo": 150,
+    "descricao": "Repolho, roxo, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 31.0,
+      "proteina_g": 1.9,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 7.2,
+      "fibra_g": 2.0
+    }
+  },
+  {
+    "codigo": 151,
+    "descricao": "Repolho, roxo, refogado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 42.0,
+      "proteina_g": 1.8,
+      "lipideos_g": 1.2,
+      "carboidrato_g": 7.6,
+      "fibra_g": 1.8
+    }
+  },
+  {
+    "codigo": 152,
+    "descricao": "Rúcula, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 13.0,
+      "proteina_g": 1.8,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 2.2,
+      "fibra_g": 1.7
+    }
+  },
+  {
+    "codigo": 153,
+    "descricao": "Salsa, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 33.0,
+      "proteina_g": 3.3,
+      "lipideos_g": 0.6,
+      "carboidrato_g": 5.7,
+      "fibra_g": 1.9
+    }
+  },
+  {
+    "codigo": 154,
+    "descricao": "Seleta de legumes, enlatada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 57.0,
+      "proteina_g": 3.4,
+      "lipideos_g": 0.4,
+      "carboidrato_g": 12.7,
+      "fibra_g": 3.1
+    }
+  },
+  {
+    "codigo": 155,
+    "descricao": "Serralha, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 30.0,
+      "proteina_g": 2.7,
+      "lipideos_g": 0.7,
+      "carboidrato_g": 4.9,
+      "fibra_g": 3.5
+    }
+  },
+  {
+    "codigo": 156,
+    "descricao": "Taioba, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 34.0,
+      "proteina_g": 2.9,
+      "lipideos_g": 0.9,
+      "carboidrato_g": 5.4,
+      "fibra_g": 4.5
+    }
+  },
+  {
+    "codigo": 157,
+    "descricao": "Tomate, com semente, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 15.0,
+      "proteina_g": 1.1,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 3.1,
+      "fibra_g": 1.2
+    }
+  },
+  {
+    "codigo": 158,
+    "descricao": "Tomate, extrato",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 61.0,
+      "proteina_g": 2.4,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 15.0,
+      "fibra_g": 2.8
+    }
+  },
+  {
+    "codigo": 159,
+    "descricao": "Tomate, molho industrializado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 38.0,
+      "proteina_g": 1.4,
+      "lipideos_g": 0.9,
+      "carboidrato_g": 7.7,
+      "fibra_g": 3.1
+    }
+  },
+  {
+    "codigo": 160,
+    "descricao": "Tomate, purê",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 28.0,
+      "proteina_g": 1.4,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 6.9,
+      "fibra_g": 1.0
+    }
+  },
+  {
+    "codigo": 161,
+    "descricao": "Tomate, salada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 21.0,
+      "proteina_g": 0.8,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 5.1,
+      "fibra_g": 2.3
+    }
+  },
+  {
+    "codigo": 162,
+    "descricao": "Vagem, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 25.0,
+      "proteina_g": 1.8,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 5.3,
+      "fibra_g": 2.4
+    }
+  },
+  {
+    "codigo": 163,
+    "descricao": "Abacate, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 96.0,
+      "proteina_g": 1.2,
+      "lipideos_g": 8.4,
+      "carboidrato_g": 6.0,
+      "fibra_g": 6.3
+    }
+  },
+  {
+    "codigo": 164,
+    "descricao": "Abacaxi, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 48.0,
+      "proteina_g": 0.9,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 12.3,
+      "fibra_g": 1.0
+    }
+  },
+  {
+    "codigo": 165,
+    "descricao": "Abacaxi, polpa, congelada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 31.0,
+      "proteina_g": 0.5,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 7.8,
+      "fibra_g": 0.3
+    }
+  },
+  {
+    "codigo": 166,
+    "descricao": "Abiu, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 62.0,
+      "proteina_g": 0.8,
+      "lipideos_g": 0.7,
+      "carboidrato_g": 14.9,
+      "fibra_g": 1.7
+    }
+  },
+  {
+    "codigo": 167,
+    "descricao": "Açaí, polpa, com xarope de guaraná e glucose",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 110.0,
+      "proteina_g": 0.7,
+      "lipideos_g": 3.7,
+      "carboidrato_g": 21.5,
+      "fibra_g": 1.7
+    }
+  },
+  {
+    "codigo": 168,
+    "descricao": "Açaí, polpa, congelada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 58.0,
+      "proteina_g": 0.8,
+      "lipideos_g": 3.9,
+      "carboidrato_g": 6.2,
+      "fibra_g": 2.6
+    }
+  },
+  {
+    "codigo": 169,
+    "descricao": "Acerola, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 33.0,
+      "proteina_g": 0.9,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 8.0,
+      "fibra_g": 1.5
+    }
+  },
+  {
+    "codigo": 170,
+    "descricao": "Acerola, polpa, congelada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 22.0,
+      "proteina_g": 0.6,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 5.5,
+      "fibra_g": 0.7
+    }
+  },
+  {
+    "codigo": 171,
+    "descricao": "Ameixa, calda, enlatada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 183.0,
+      "proteina_g": 0.4,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 46.9,
+      "fibra_g": 0.5
+    }
+  },
+  {
+    "codigo": 172,
+    "descricao": "Ameixa, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 53.0,
+      "proteina_g": 0.8,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 13.9,
+      "fibra_g": 2.4
+    }
+  },
+  {
+    "codigo": 173,
+    "descricao": "Ameixa, em calda, enlatada, drenada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 177.0,
+      "proteina_g": 1.0,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 47.7,
+      "fibra_g": 4.5
+    }
+  },
+  {
+    "codigo": 174,
+    "descricao": "Atemóia, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 97.0,
+      "proteina_g": 1.0,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 25.3,
+      "fibra_g": 2.1
+    }
+  },
+  {
+    "codigo": 175,
+    "descricao": "Banana, da terra, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 128.0,
+      "proteina_g": 1.4,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 33.7,
+      "fibra_g": 1.5
+    }
+  },
+  {
+    "codigo": 176,
+    "descricao": "Banana, doce em barra",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 280.0,
+      "proteina_g": 2.2,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 75.7,
+      "fibra_g": 3.8
+    }
+  },
+  {
+    "codigo": 177,
+    "descricao": "Banana, figo, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 105.0,
+      "proteina_g": 1.1,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 27.8,
+      "fibra_g": 2.8
+    }
+  },
+  {
+    "codigo": 178,
+    "descricao": "Banana, maçã, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 87.0,
+      "proteina_g": 1.8,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 22.3,
+      "fibra_g": 2.6
+    }
+  },
+  {
+    "codigo": 179,
+    "descricao": "Banana, nanica, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 92.0,
+      "proteina_g": 1.4,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 23.8,
+      "fibra_g": 1.9
+    }
+  },
+  {
+    "codigo": 180,
+    "descricao": "Banana, ouro, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 112.0,
+      "proteina_g": 1.5,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 29.3,
+      "fibra_g": 2.0
+    }
+  },
+  {
+    "codigo": 181,
+    "descricao": "Banana, pacova, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 78.0,
+      "proteina_g": 1.2,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 20.3,
+      "fibra_g": 2.0
+    }
+  },
+  {
+    "codigo": 182,
+    "descricao": "Banana, prata, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 98.0,
+      "proteina_g": 1.3,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 26.0,
+      "fibra_g": 2.0
+    }
+  },
+  {
+    "codigo": 183,
+    "descricao": "Cacau, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 74.0,
+      "proteina_g": 1.0,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 19.4,
+      "fibra_g": 2.2
+    }
+  },
+  {
+    "codigo": 184,
+    "descricao": "Cajá-Manga, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 46.0,
+      "proteina_g": 1.3,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 11.4,
+      "fibra_g": 2.6
+    }
+  },
+  {
+    "codigo": 185,
+    "descricao": "Cajá, polpa, congelada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 26.0,
+      "proteina_g": 0.6,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 6.4,
+      "fibra_g": 1.4
+    }
+  },
+  {
+    "codigo": 186,
+    "descricao": "Caju, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 43.0,
+      "proteina_g": 1.0,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 10.3,
+      "fibra_g": 1.7
+    }
+  },
+  {
+    "codigo": 187,
+    "descricao": "Caju, polpa, congelada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 37.0,
+      "proteina_g": 0.5,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 9.4,
+      "fibra_g": 0.8
+    }
+  },
+  {
+    "codigo": 188,
+    "descricao": "Caju, suco concentrado, envasado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 45.0,
+      "proteina_g": 0.4,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 10.7,
+      "fibra_g": 0.6
+    }
+  },
+  {
+    "codigo": 189,
+    "descricao": "Caqui, chocolate, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 71.0,
+      "proteina_g": 0.4,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 19.3,
+      "fibra_g": 6.5
+    }
+  },
+  {
+    "codigo": 190,
+    "descricao": "Carambola, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 46.0,
+      "proteina_g": 0.9,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 11.5,
+      "fibra_g": 2.0
+    }
+  },
+  {
+    "codigo": 191,
+    "descricao": "Ciriguela, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 76.0,
+      "proteina_g": 1.4,
+      "lipideos_g": 0.4,
+      "carboidrato_g": 18.9,
+      "fibra_g": 3.9
+    }
+  },
+  {
+    "codigo": 192,
+    "descricao": "Cupuaçu, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 49.0,
+      "proteina_g": 1.2,
+      "lipideos_g": 1.0,
+      "carboidrato_g": 10.4,
+      "fibra_g": 3.1
+    }
+  },
+  {
+    "codigo": 193,
+    "descricao": "Cupuaçu, polpa, congelada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 49.0,
+      "proteina_g": 0.8,
+      "lipideos_g": 0.6,
+      "carboidrato_g": 11.4,
+      "fibra_g": 1.6
+    }
+  },
+  {
+    "codigo": 194,
+    "descricao": "Figo, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 41.0,
+      "proteina_g": 1.0,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 10.2,
+      "fibra_g": 1.8
+    }
+  },
+  {
+    "codigo": 195,
+    "descricao": "Figo, enlatado, em calda",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 184.0,
+      "proteina_g": 0.6,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 50.3,
+      "fibra_g": 2.0
+    }
+  },
+  {
+    "codigo": 196,
+    "descricao": "Fruta-pão, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 67.0,
+      "proteina_g": 1.1,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 17.2,
+      "fibra_g": 5.5
+    }
+  },
+  {
+    "codigo": 197,
+    "descricao": "Goiaba, branca, com casca, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 52.0,
+      "proteina_g": 0.9,
+      "lipideos_g": 0.5,
+      "carboidrato_g": 12.4,
+      "fibra_g": 6.3
+    }
+  },
+  {
+    "codigo": 198,
+    "descricao": "Goiaba, doce em pasta",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 269.0,
+      "proteina_g": 0.6,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 74.1,
+      "fibra_g": 3.7
+    }
+  },
+  {
+    "codigo": 199,
+    "descricao": "Goiaba, doce, cascão",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 286.0,
+      "proteina_g": 0.4,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 78.7,
+      "fibra_g": 4.4
+    }
+  },
+  {
+    "codigo": 200,
+    "descricao": "Goiaba, vermelha, com casca, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 54.0,
+      "proteina_g": 1.1,
+      "lipideos_g": 0.4,
+      "carboidrato_g": 13.0,
+      "fibra_g": 6.2
+    }
+  },
+  {
+    "codigo": 201,
+    "descricao": "Graviola, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 62.0,
+      "proteina_g": 0.8,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 15.8,
+      "fibra_g": 1.9
+    }
+  },
+  {
+    "codigo": 202,
+    "descricao": "Graviola, polpa, congelada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 38.0,
+      "proteina_g": 0.6,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 9.8,
+      "fibra_g": 1.2
+    }
+  },
+  {
+    "codigo": 203,
+    "descricao": "Jabuticaba, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 58.0,
+      "proteina_g": 0.6,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 15.3,
+      "fibra_g": 2.3
+    }
+  },
+  {
+    "codigo": 204,
+    "descricao": "Jaca, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 88.0,
+      "proteina_g": 1.4,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 22.5,
+      "fibra_g": 2.4
+    }
+  },
+  {
+    "codigo": 205,
+    "descricao": "Jambo, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 27.0,
+      "proteina_g": 0.9,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 6.5,
+      "fibra_g": 5.1
+    }
+  },
+  {
+    "codigo": 206,
+    "descricao": "Jamelão, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 41.0,
+      "proteina_g": 0.5,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 10.6,
+      "fibra_g": 1.8
+    }
+  },
+  {
+    "codigo": 207,
+    "descricao": "Kiwi, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 51.0,
+      "proteina_g": 1.3,
+      "lipideos_g": 0.6,
+      "carboidrato_g": 11.5,
+      "fibra_g": 2.7
+    }
+  },
+  {
+    "codigo": 208,
+    "descricao": "Laranja, baía, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 45.0,
+      "proteina_g": 1.0,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 11.5,
+      "fibra_g": 1.1
+    }
+  },
+  {
+    "codigo": 209,
+    "descricao": "Laranja, baía, suco",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 37.0,
+      "proteina_g": 0.7,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 8.7,
+      "fibra_g": 0.0
+    }
+  },
+  {
+    "codigo": 210,
+    "descricao": "Laranja, da terra, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 51.0,
+      "proteina_g": 1.1,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 12.9,
+      "fibra_g": 4.0
+    }
+  },
+  {
+    "codigo": 211,
+    "descricao": "Laranja, da terra, suco",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 41.0,
+      "proteina_g": 0.7,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 9.6,
+      "fibra_g": 1.0
+    }
+  },
+  {
+    "codigo": 212,
+    "descricao": "Laranja, lima, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 46.0,
+      "proteina_g": 1.1,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 11.5,
+      "fibra_g": 1.8
+    }
+  },
+  {
+    "codigo": 213,
+    "descricao": "Laranja, lima, suco",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 39.0,
+      "proteina_g": 0.7,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 9.2,
+      "fibra_g": 0.4
+    }
+  },
+  {
+    "codigo": 214,
+    "descricao": "Laranja, pêra, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 37.0,
+      "proteina_g": 1.0,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 8.9,
+      "fibra_g": 0.8
+    }
+  },
+  {
+    "codigo": 215,
+    "descricao": "Laranja, pêra, suco",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 33.0,
+      "proteina_g": 0.7,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 7.6,
+      "fibra_g": 0.0
+    }
+  },
+  {
+    "codigo": 216,
+    "descricao": "Laranja, valência, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 46.0,
+      "proteina_g": 0.8,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 11.7,
+      "fibra_g": 1.7
+    }
+  },
+  {
+    "codigo": 217,
+    "descricao": "Laranja, valência, suco",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 36.0,
+      "proteina_g": 0.5,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 8.6,
+      "fibra_g": 0.4
+    }
+  },
+  {
+    "codigo": 218,
+    "descricao": "Limão, cravo, suco",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 14.0,
+      "proteina_g": 0.3,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 5.2,
+      "fibra_g": 0.0
+    }
+  },
+  {
+    "codigo": 219,
+    "descricao": "Limão, galego, suco",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 22.0,
+      "proteina_g": 0.6,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 7.3,
+      "fibra_g": 0.0
+    }
+  },
+  {
+    "codigo": 220,
+    "descricao": "Limão, tahiti, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 32.0,
+      "proteina_g": 0.9,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 11.1,
+      "fibra_g": 1.2
+    }
+  },
+  {
+    "codigo": 221,
+    "descricao": "Maçã, Argentina, com casca, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 63.0,
+      "proteina_g": 0.2,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 16.6,
+      "fibra_g": 2.0
+    }
+  },
+  {
+    "codigo": 222,
+    "descricao": "Maçã, Fuji, com casca, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 56.0,
+      "proteina_g": 0.3,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 15.2,
+      "fibra_g": 1.3
+    }
+  },
+  {
+    "codigo": 223,
+    "descricao": "Macaúba, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 404.0,
+      "proteina_g": 2.1,
+      "lipideos_g": 40.7,
+      "carboidrato_g": 13.9,
+      "fibra_g": 13.4
+    }
+  },
+  {
+    "codigo": 224,
+    "descricao": "Mamão, doce em calda, drenado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 196.0,
+      "proteina_g": 0.2,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 54.0,
+      "fibra_g": 1.3
+    }
+  },
+  {
+    "codigo": 225,
+    "descricao": "Mamão, Formosa, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 45.0,
+      "proteina_g": 0.8,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 11.6,
+      "fibra_g": 1.8
+    }
+  },
+  {
+    "codigo": 226,
+    "descricao": "Mamão, Papaia, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 40.0,
+      "proteina_g": 0.5,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 10.4,
+      "fibra_g": 1.0
+    }
+  },
+  {
+    "codigo": 227,
+    "descricao": "Mamão verde, doce em calda, drenado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 209.0,
+      "proteina_g": 0.3,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 57.6,
+      "fibra_g": 1.2
+    }
+  },
+  {
+    "codigo": 228,
+    "descricao": "Manga, Haden, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 64.0,
+      "proteina_g": 0.4,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 16.7,
+      "fibra_g": 1.6
+    }
+  },
+  {
+    "codigo": 229,
+    "descricao": "Manga, Palmer, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 72.0,
+      "proteina_g": 0.4,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 19.4,
+      "fibra_g": 1.6
+    }
+  },
+  {
+    "codigo": 230,
+    "descricao": "Manga, polpa, congelada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 48.0,
+      "proteina_g": 0.4,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 12.5,
+      "fibra_g": 1.1
+    }
+  },
+  {
+    "codigo": 231,
+    "descricao": "Manga, Tommy Atkins, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 51.0,
+      "proteina_g": 0.9,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 12.8,
+      "fibra_g": 2.1
+    }
+  },
+  {
+    "codigo": 232,
+    "descricao": "Maracujá, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 68.0,
+      "proteina_g": 2.0,
+      "lipideos_g": 2.1,
+      "carboidrato_g": 12.3,
+      "fibra_g": 1.1
+    }
+  },
+  {
+    "codigo": 233,
+    "descricao": "Maracujá, polpa, congelada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 39.0,
+      "proteina_g": 0.8,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 9.6,
+      "fibra_g": 0.5
+    }
+  },
+  {
+    "codigo": 234,
+    "descricao": "Maracujá, suco concentrado, envasado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 42.0,
+      "proteina_g": 0.8,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 9.6,
+      "fibra_g": 0.4
+    }
+  },
+  {
+    "codigo": 235,
+    "descricao": "Melancia, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 33.0,
+      "proteina_g": 0.9,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 8.1,
+      "fibra_g": 0.1
+    }
+  },
+  {
+    "codigo": 236,
+    "descricao": "Melão, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 29.0,
+      "proteina_g": 0.7,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 7.5,
+      "fibra_g": 0.3
+    }
+  },
+  {
+    "codigo": 237,
+    "descricao": "Mexerica, Murcote, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 58.0,
+      "proteina_g": 0.9,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 14.9,
+      "fibra_g": 3.1
+    }
+  },
+  {
+    "codigo": 238,
+    "descricao": "Mexerica, Rio, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 37.0,
+      "proteina_g": 0.7,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 9.3,
+      "fibra_g": 2.7
+    }
+  },
+  {
+    "codigo": 239,
+    "descricao": "Morango, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 30.0,
+      "proteina_g": 0.9,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 6.8,
+      "fibra_g": 1.7
+    }
+  },
+  {
+    "codigo": 240,
+    "descricao": "Nêspera, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 43.0,
+      "proteina_g": 0.3,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 11.5,
+      "fibra_g": 3.0
+    }
+  },
+  {
+    "codigo": 241,
+    "descricao": "Pequi, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 205.0,
+      "proteina_g": 2.3,
+      "lipideos_g": 18.0,
+      "carboidrato_g": 13.0,
+      "fibra_g": 19.0
+    }
+  },
+  {
+    "codigo": 242,
+    "descricao": "Pêra, Park, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 61.0,
+      "proteina_g": 0.2,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 16.1,
+      "fibra_g": 3.0
+    }
+  },
+  {
+    "codigo": 243,
+    "descricao": "Pêra, Williams, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 53.0,
+      "proteina_g": 0.6,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 14.0,
+      "fibra_g": 3.0
+    }
+  },
+  {
+    "codigo": 244,
+    "descricao": "Pêssego, Aurora, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 36.0,
+      "proteina_g": 0.8,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 9.3,
+      "fibra_g": 1.4
+    }
+  },
+  {
+    "codigo": 245,
+    "descricao": "Pêssego, enlatado, em calda",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 63.0,
+      "proteina_g": 0.7,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 16.9,
+      "fibra_g": 1.0
+    }
+  },
+  {
+    "codigo": 246,
+    "descricao": "Pinha, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 88.0,
+      "proteina_g": 1.5,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 22.4,
+      "fibra_g": 3.4
+    }
+  },
+  {
+    "codigo": 247,
+    "descricao": "Pitanga, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 41.0,
+      "proteina_g": 0.9,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 10.2,
+      "fibra_g": 3.2
+    }
+  },
+  {
+    "codigo": 248,
+    "descricao": "Pitanga, polpa, congelada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 19.0,
+      "proteina_g": 0.3,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 4.8,
+      "fibra_g": 0.7
+    }
+  },
+  {
+    "codigo": 249,
+    "descricao": "Romã, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 56.0,
+      "proteina_g": 0.4,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 15.1,
+      "fibra_g": 0.4
+    }
+  },
+  {
+    "codigo": 250,
+    "descricao": "Tamarindo, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 276.0,
+      "proteina_g": 3.2,
+      "lipideos_g": 0.5,
+      "carboidrato_g": 72.5,
+      "fibra_g": 6.4
+    }
+  },
+  {
+    "codigo": 251,
+    "descricao": "Tangerina, Poncã, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 38.0,
+      "proteina_g": 0.8,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 9.6,
+      "fibra_g": 0.9
+    }
+  },
+  {
+    "codigo": 252,
+    "descricao": "Tangerina, Poncã, suco",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 36.0,
+      "proteina_g": 0.5,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 8.8,
+      "fibra_g": 0.0
+    }
+  },
+  {
+    "codigo": 253,
+    "descricao": "Tucumã, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 262.0,
+      "proteina_g": 2.1,
+      "lipideos_g": 19.1,
+      "carboidrato_g": 26.5,
+      "fibra_g": 12.7
+    }
+  },
+  {
+    "codigo": 254,
+    "descricao": "Umbu, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 37.0,
+      "proteina_g": 0.8,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 9.4,
+      "fibra_g": 2.0
+    }
+  },
+  {
+    "codigo": 255,
+    "descricao": "Umbu, polpa, congelada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 34.0,
+      "proteina_g": 0.5,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 8.8,
+      "fibra_g": 1.3
+    }
+  },
+  {
+    "codigo": 256,
+    "descricao": "Uva, Itália, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 53.0,
+      "proteina_g": 0.7,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 13.6,
+      "fibra_g": 0.9
+    }
+  },
+  {
+    "codigo": 257,
+    "descricao": "Uva, Rubi, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 49.0,
+      "proteina_g": 0.6,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 12.7,
+      "fibra_g": 0.9
+    }
+  },
+  {
+    "codigo": 258,
+    "descricao": "Uva, suco concentrado, envasado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 58.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 14.7,
+      "fibra_g": 0.2
+    }
+  },
+  {
+    "codigo": 261,
+    "descricao": "Manteiga, com sal",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 726.0,
+      "proteina_g": 0.4,
+      "lipideos_g": 82.4,
+      "carboidrato_g": 0.1,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 262,
+    "descricao": "Manteiga, sem sal",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 758.0,
+      "proteina_g": 0.4,
+      "lipideos_g": 86.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 263,
+    "descricao": "Margarina, com óleo hidrogenado, com sal (65% de lipídeos)",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 596.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 67.4,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 264,
+    "descricao": "Margarina, com óleo hidrogenado, sem sal (80% de lipídeos)",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 723.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 81.7,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 265,
+    "descricao": "Margarina, com óleo interesterificado, com sal (65%de lipídeos)",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 594.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 67.2,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 266,
+    "descricao": "Margarina, com óleo interesterificado, sem sal (65% de lipídeos)",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 593.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 67.1,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 273,
+    "descricao": "Abadejo, filé, congelado, assado",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 112.0,
+      "proteina_g": 23.5,
+      "lipideos_g": 1.2,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 274,
+    "descricao": "Abadejo, filé, congelado,cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 91.0,
+      "proteina_g": 19.3,
+      "lipideos_g": 0.9,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 275,
+    "descricao": "Abadejo, filé, congelado, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 59.0,
+      "proteina_g": 13.1,
+      "lipideos_g": 0.4,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 276,
+    "descricao": "Abadejo, filé, congelado, grelhado",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 130.0,
+      "proteina_g": 27.6,
+      "lipideos_g": 1.3,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 277,
+    "descricao": "Atum, conserva em óleo",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 166.0,
+      "proteina_g": 26.2,
+      "lipideos_g": 6.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 278,
+    "descricao": "Atum, fresco, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 118.0,
+      "proteina_g": 25.7,
+      "lipideos_g": 0.9,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 279,
+    "descricao": "Bacalhau, salgado, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 136.0,
+      "proteina_g": 29.0,
+      "lipideos_g": 1.3,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 280,
+    "descricao": "Bacalhau, salgado, refogado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 140.0,
+      "proteina_g": 24.0,
+      "lipideos_g": 3.6,
+      "carboidrato_g": 1.2,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 281,
+    "descricao": "Cação, posta, com farinha de trigo, frita",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 208.0,
+      "proteina_g": 25.0,
+      "lipideos_g": 10.0,
+      "carboidrato_g": 3.1,
+      "fibra_g": 0.5
+    }
+  },
+  {
+    "codigo": 282,
+    "descricao": "Cação, posta, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 116.0,
+      "proteina_g": 25.6,
+      "lipideos_g": 0.7,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 283,
+    "descricao": "Cação, posta, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 83.0,
+      "proteina_g": 17.9,
+      "lipideos_g": 0.8,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 284,
+    "descricao": "Camarão, Rio Grande, grande, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 90.0,
+      "proteina_g": 19.0,
+      "lipideos_g": 1.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 285,
+    "descricao": "Camarão, Rio Grande, grande, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 47.0,
+      "proteina_g": 10.0,
+      "lipideos_g": 0.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 286,
+    "descricao": "Camarão, Sete Barbas, sem cabeça, com casca, frito",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 231.0,
+      "proteina_g": 18.4,
+      "lipideos_g": 15.6,
+      "carboidrato_g": 2.9,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 287,
+    "descricao": "Caranguejo, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 83.0,
+      "proteina_g": 18.5,
+      "lipideos_g": 0.4,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 288,
+    "descricao": "Corimba, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 128.0,
+      "proteina_g": 17.4,
+      "lipideos_g": 6.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 289,
+    "descricao": "Corimbatá, assado",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 261.0,
+      "proteina_g": 19.9,
+      "lipideos_g": 19.6,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 290,
+    "descricao": "Corimbatá, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 239.0,
+      "proteina_g": 20.1,
+      "lipideos_g": 16.9,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 291,
+    "descricao": "Corvina de água doce, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 101.0,
+      "proteina_g": 18.9,
+      "lipideos_g": 2.2,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 292,
+    "descricao": "Corvina do mar, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 94.0,
+      "proteina_g": 18.6,
+      "lipideos_g": 1.6,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 293,
+    "descricao": "Corvina grande, assada",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 147.0,
+      "proteina_g": 26.8,
+      "lipideos_g": 3.6,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 294,
+    "descricao": "Corvina grande, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 100.0,
+      "proteina_g": 23.4,
+      "lipideos_g": 2.6,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 295,
+    "descricao": "Dourada de água doce, fresca",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 131.0,
+      "proteina_g": 18.8,
+      "lipideos_g": 5.6,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 296,
+    "descricao": "Lambari, congelado, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 131.0,
+      "proteina_g": 16.8,
+      "lipideos_g": 6.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 297,
+    "descricao": "Lambari, congelado, frito",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 327.0,
+      "proteina_g": 28.4,
+      "lipideos_g": 22.8,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 298,
+    "descricao": "Lambari, fresco, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 152.0,
+      "proteina_g": 15.7,
+      "lipideos_g": 9.4,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 299,
+    "descricao": "Manjuba, com farinha de trigo, frita",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 344.0,
+      "proteina_g": 23.5,
+      "lipideos_g": 22.6,
+      "carboidrato_g": 10.2,
+      "fibra_g": 0.4
+    }
+  },
+  {
+    "codigo": 300,
+    "descricao": "Manjuba, frita",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 349.0,
+      "proteina_g": 30.1,
+      "lipideos_g": 24.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 301,
+    "descricao": "Merluza, filé, assado",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 122.0,
+      "proteina_g": 26.6,
+      "lipideos_g": 0.9,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 302,
+    "descricao": "Merluza, filé, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 89.0,
+      "proteina_g": 16.6,
+      "lipideos_g": 2.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 303,
+    "descricao": "Merluza, filé, frito",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 192.0,
+      "proteina_g": 26.9,
+      "lipideos_g": 8.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 304,
+    "descricao": "Pescada, branca, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 111.0,
+      "proteina_g": 16.3,
+      "lipideos_g": 4.6,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 305,
+    "descricao": "Pescada, branca, frita",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 223.0,
+      "proteina_g": 27.4,
+      "lipideos_g": 11.8,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 306,
+    "descricao": "Pescada, filé, com farinha de trigo, frito",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 283.0,
+      "proteina_g": 21.4,
+      "lipideos_g": 19.1,
+      "carboidrato_g": 5.0,
+      "fibra_g": 0.0
+    }
+  },
+  {
+    "codigo": 307,
+    "descricao": "Pescada, filé, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 107.0,
+      "proteina_g": 16.7,
+      "lipideos_g": 4.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 308,
+    "descricao": "Pescada, filé, frito",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 154.0,
+      "proteina_g": 28.6,
+      "lipideos_g": 3.6,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 309,
+    "descricao": "Pescada, filé, molho escabeche",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 142.0,
+      "proteina_g": 11.8,
+      "lipideos_g": 8.0,
+      "carboidrato_g": 5.0,
+      "fibra_g": 0.8
+    }
+  },
+  {
+    "codigo": 310,
+    "descricao": "Pescadinha, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 76.0,
+      "proteina_g": 15.5,
+      "lipideos_g": 1.1,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 311,
+    "descricao": "Pintado, assado",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 192.0,
+      "proteina_g": 36.5,
+      "lipideos_g": 4.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 312,
+    "descricao": "Pintado, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 91.0,
+      "proteina_g": 18.6,
+      "lipideos_g": 1.3,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 313,
+    "descricao": "Pintado, grelhado",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 152.0,
+      "proteina_g": 30.8,
+      "lipideos_g": 2.3,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 314,
+    "descricao": "Porquinho, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 93.0,
+      "proteina_g": 20.5,
+      "lipideos_g": 0.6,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 315,
+    "descricao": "Salmão, filé, com pele, fresco, grelhado",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 229.0,
+      "proteina_g": 23.9,
+      "lipideos_g": 14.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 316,
+    "descricao": "Salmão, sem pele, fresco, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 170.0,
+      "proteina_g": 19.3,
+      "lipideos_g": 9.7,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 317,
+    "descricao": "Salmão, sem pele, fresco, grelhado",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 243.0,
+      "proteina_g": 26.1,
+      "lipideos_g": 14.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 318,
+    "descricao": "Sardinha, assada",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 164.0,
+      "proteina_g": 32.2,
+      "lipideos_g": 3.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 319,
+    "descricao": "Sardinha, conserva em óleo",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 285.0,
+      "proteina_g": 15.9,
+      "lipideos_g": 24.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 320,
+    "descricao": "Sardinha, frita",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 257.0,
+      "proteina_g": 33.4,
+      "lipideos_g": 12.7,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 321,
+    "descricao": "Sardinha, inteira, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 114.0,
+      "proteina_g": 21.1,
+      "lipideos_g": 2.7,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 322,
+    "descricao": "Tucunaré, filé, congelado, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 88.0,
+      "proteina_g": 18.0,
+      "lipideos_g": 1.2,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 323,
+    "descricao": "Apresuntado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 129.0,
+      "proteina_g": 13.5,
+      "lipideos_g": 6.7,
+      "carboidrato_g": 2.9,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 324,
+    "descricao": "Caldo de carne, tablete",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 241.0,
+      "proteina_g": 7.8,
+      "lipideos_g": 16.6,
+      "carboidrato_g": 15.1,
+      "fibra_g": 0.6
+    }
+  },
+  {
+    "codigo": 325,
+    "descricao": "Caldo de galinha, tablete",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 251.0,
+      "proteina_g": 6.3,
+      "lipideos_g": 20.4,
+      "carboidrato_g": 10.6,
+      "fibra_g": 11.8
+    }
+  },
+  {
+    "codigo": 326,
+    "descricao": "Carne, bovina, acém, moído, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 212.0,
+      "proteina_g": 26.7,
+      "lipideos_g": 10.9,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 327,
+    "descricao": "Carne, bovina, acém, moído, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 137.0,
+      "proteina_g": 19.4,
+      "lipideos_g": 5.9,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 328,
+    "descricao": "Carne, bovina, acém, sem gordura, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 215.0,
+      "proteina_g": 27.3,
+      "lipideos_g": 10.9,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 329,
+    "descricao": "Carne, bovina, acém, sem gordura, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 144.0,
+      "proteina_g": 20.8,
+      "lipideos_g": 6.1,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 330,
+    "descricao": "Carne, bovina, almôndegas, cruas",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 189.0,
+      "proteina_g": 12.3,
+      "lipideos_g": 11.2,
+      "carboidrato_g": 9.8,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 331,
+    "descricao": "Carne, bovina, almôndegas, fritas",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 272.0,
+      "proteina_g": 18.2,
+      "lipideos_g": 15.8,
+      "carboidrato_g": 14.3,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 332,
+    "descricao": "Carne, bovina, bucho, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 133.0,
+      "proteina_g": 21.6,
+      "lipideos_g": 4.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 333,
+    "descricao": "Carne, bovina, bucho, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 137.0,
+      "proteina_g": 20.5,
+      "lipideos_g": 5.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 334,
+    "descricao": "Carne, bovina, capa de contra-filé, com gordura, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 217.0,
+      "proteina_g": 19.2,
+      "lipideos_g": 15.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 335,
+    "descricao": "Carne, bovina, capa de contra-filé, com gordura, grelhada",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 312.0,
+      "proteina_g": 30.7,
+      "lipideos_g": 20.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 336,
+    "descricao": "Carne, bovina, capa de contra-filé, sem gordura, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 131.0,
+      "proteina_g": 21.5,
+      "lipideos_g": 4.3,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 337,
+    "descricao": "Carne, bovina, capa de contra-filé, sem gordura, grelhada",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 239.0,
+      "proteina_g": 35.1,
+      "lipideos_g": 10.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 338,
+    "descricao": "Carne, bovina, charque, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 263.0,
+      "proteina_g": 36.4,
+      "lipideos_g": 11.9,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 339,
+    "descricao": "Carne, bovina, charque, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 249.0,
+      "proteina_g": 22.7,
+      "lipideos_g": 16.8,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 340,
+    "descricao": "Carne, bovina, contra-filé, à milanesa",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 352.0,
+      "proteina_g": 20.6,
+      "lipideos_g": 24.0,
+      "carboidrato_g": 12.2,
+      "fibra_g": 0.4
+    }
+  },
+  {
+    "codigo": 341,
+    "descricao": "Carne, bovina, contra-filé de costela, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 202.0,
+      "proteina_g": 19.8,
+      "lipideos_g": 13.1,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 342,
+    "descricao": "Carne, bovina, contra-filé de costela, grelhado",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 275.0,
+      "proteina_g": 29.9,
+      "lipideos_g": 16.3,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 343,
+    "descricao": "Carne, bovina, contra-filé, com gordura, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 206.0,
+      "proteina_g": 21.2,
+      "lipideos_g": 12.8,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 344,
+    "descricao": "Carne, bovina, contra-filé, com gordura, grelhado",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 278.0,
+      "proteina_g": 32.4,
+      "lipideos_g": 15.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 345,
+    "descricao": "Carne, bovina, contra-filé, sem gordura, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 157.0,
+      "proteina_g": 24.0,
+      "lipideos_g": 6.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 346,
+    "descricao": "Carne, bovina, contra-filé, sem gordura, grelhado",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 194.0,
+      "proteina_g": 35.9,
+      "lipideos_g": 4.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 347,
+    "descricao": "Carne, bovina, costela, assada",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 373.0,
+      "proteina_g": 28.8,
+      "lipideos_g": 27.7,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 348,
+    "descricao": "Carne, bovina, costela, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 358.0,
+      "proteina_g": 16.7,
+      "lipideos_g": 31.8,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 349,
+    "descricao": "Carne, bovina, coxão duro, sem gordura, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 217.0,
+      "proteina_g": 31.9,
+      "lipideos_g": 8.9,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 350,
+    "descricao": "Carne, bovina, coxão duro, sem gordura, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 148.0,
+      "proteina_g": 21.5,
+      "lipideos_g": 6.2,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 351,
+    "descricao": "Carne, bovina, coxão mole, sem gordura, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 219.0,
+      "proteina_g": 32.4,
+      "lipideos_g": 8.9,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 352,
+    "descricao": "Carne, bovina, coxão mole, sem gordura, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 169.0,
+      "proteina_g": 21.2,
+      "lipideos_g": 8.7,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 353,
+    "descricao": "Carne, bovina, cupim, assado",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 330.0,
+      "proteina_g": 28.6,
+      "lipideos_g": 23.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 354,
+    "descricao": "Carne, bovina, cupim, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 221.0,
+      "proteina_g": 19.5,
+      "lipideos_g": 15.3,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 355,
+    "descricao": "Carne, bovina, fígado, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 141.0,
+      "proteina_g": 20.7,
+      "lipideos_g": 5.4,
+      "carboidrato_g": 1.1,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 356,
+    "descricao": "Carne, bovina, fígado, grelhado",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 225.0,
+      "proteina_g": 29.9,
+      "lipideos_g": 9.0,
+      "carboidrato_g": 4.2,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 357,
+    "descricao": "Carne, bovina, filé mingnon, sem gordura, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 143.0,
+      "proteina_g": 21.6,
+      "lipideos_g": 5.6,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 358,
+    "descricao": "Carne, bovina, filé mingnon, sem gordura, grelhado",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 220.0,
+      "proteina_g": 32.8,
+      "lipideos_g": 8.8,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 359,
+    "descricao": "Carne, bovina, flanco, sem gordura, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 196.0,
+      "proteina_g": 29.4,
+      "lipideos_g": 7.8,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 360,
+    "descricao": "Carne, bovina, flanco, sem gordura, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 141.0,
+      "proteina_g": 20.0,
+      "lipideos_g": 6.2,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 361,
+    "descricao": "Carne, bovina, fraldinha, com gordura, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 338.0,
+      "proteina_g": 24.2,
+      "lipideos_g": 26.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 362,
+    "descricao": "Carne, bovina, fraldinha, com gordura, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 221.0,
+      "proteina_g": 17.6,
+      "lipideos_g": 16.1,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 363,
+    "descricao": "Carne, bovina, lagarto, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 222.0,
+      "proteina_g": 32.9,
+      "lipideos_g": 9.1,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 364,
+    "descricao": "Carne, bovina, lagarto, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 135.0,
+      "proteina_g": 20.5,
+      "lipideos_g": 5.2,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 365,
+    "descricao": "Carne, bovina, língua, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 315.0,
+      "proteina_g": 21.4,
+      "lipideos_g": 24.8,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 366,
+    "descricao": "Carne, bovina, língua, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 215.0,
+      "proteina_g": 17.1,
+      "lipideos_g": 15.8,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 367,
+    "descricao": "Carne, bovina, maminha, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 153.0,
+      "proteina_g": 20.9,
+      "lipideos_g": 7.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 368,
+    "descricao": "Carne, bovina, maminha, grelhada",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 153.0,
+      "proteina_g": 30.7,
+      "lipideos_g": 2.4,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 369,
+    "descricao": "Carne, bovina, miolo de alcatra, sem gordura, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 163.0,
+      "proteina_g": 21.6,
+      "lipideos_g": 7.8,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 370,
+    "descricao": "Carne, bovina, miolo de alcatra, sem gordura, grelhado",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 241.0,
+      "proteina_g": 31.9,
+      "lipideos_g": 11.6,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 371,
+    "descricao": "Carne, bovina, músculo, sem gordura, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 194.0,
+      "proteina_g": 31.2,
+      "lipideos_g": 6.7,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 372,
+    "descricao": "Carne, bovina, músculo, sem gordura, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 142.0,
+      "proteina_g": 21.6,
+      "lipideos_g": 5.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 373,
+    "descricao": "Carne, bovina, paleta, com gordura, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 159.0,
+      "proteina_g": 21.4,
+      "lipideos_g": 7.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 374,
+    "descricao": "Carne, bovina, paleta, sem gordura, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 194.0,
+      "proteina_g": 29.7,
+      "lipideos_g": 7.4,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 375,
+    "descricao": "Carne, bovina, paleta, sem gordura, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 141.0,
+      "proteina_g": 21.0,
+      "lipideos_g": 5.7,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 376,
+    "descricao": "Carne, bovina, patinho, sem gordura, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 133.0,
+      "proteina_g": 21.7,
+      "lipideos_g": 4.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 377,
+    "descricao": "Carne, bovina, patinho, sem gordura, grelhado",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 219.0,
+      "proteina_g": 35.9,
+      "lipideos_g": 7.3,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 378,
+    "descricao": "Carne, bovina, peito, sem gordura, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 338.0,
+      "proteina_g": 22.2,
+      "lipideos_g": 27.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 379,
+    "descricao": "Carne, bovina, peito, sem gordura, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 259.0,
+      "proteina_g": 17.6,
+      "lipideos_g": 20.4,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 380,
+    "descricao": "Carne, bovina, picanha, com gordura, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 213.0,
+      "proteina_g": 18.8,
+      "lipideos_g": 14.7,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 381,
+    "descricao": "Carne, bovina, picanha, com gordura, grelhada",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 289.0,
+      "proteina_g": 26.4,
+      "lipideos_g": 19.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 382,
+    "descricao": "Carne, bovina, picanha, sem gordura, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 134.0,
+      "proteina_g": 21.3,
+      "lipideos_g": 4.7,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 383,
+    "descricao": "Carne, bovina, picanha, sem gordura, grelhada",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 238.0,
+      "proteina_g": 31.9,
+      "lipideos_g": 11.3,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 384,
+    "descricao": "Carne, bovina, seca, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 313.0,
+      "proteina_g": 26.9,
+      "lipideos_g": 21.9,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 385,
+    "descricao": "Carne, bovina, seca, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 313.0,
+      "proteina_g": 19.7,
+      "lipideos_g": 25.4,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 386,
+    "descricao": "Coxinha de frango, frita",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 283.0,
+      "proteina_g": 9.6,
+      "lipideos_g": 11.8,
+      "carboidrato_g": 34.5,
+      "fibra_g": 5.0
+    }
+  },
+  {
+    "codigo": 389,
+    "descricao": "Empada de frango, pré-cozida, assada",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 358.0,
+      "proteina_g": 6.9,
+      "lipideos_g": 15.6,
+      "carboidrato_g": 47.5,
+      "fibra_g": 2.2
+    }
+  },
+  {
+    "codigo": 390,
+    "descricao": "Empada, de frango, pré-cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 377.0,
+      "proteina_g": 7.3,
+      "lipideos_g": 22.9,
+      "carboidrato_g": 35.5,
+      "fibra_g": 2.2
+    }
+  },
+  {
+    "codigo": 391,
+    "descricao": "Frango, asa, com pele, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 213.0,
+      "proteina_g": 18.1,
+      "lipideos_g": 15.1,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 392,
+    "descricao": "Frango, caipira, inteiro, com pele, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 243.0,
+      "proteina_g": 23.9,
+      "lipideos_g": 15.6,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 393,
+    "descricao": "Frango, caipira, inteiro, sem pele, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 196.0,
+      "proteina_g": 29.6,
+      "lipideos_g": 7.7,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 394,
+    "descricao": "Frango, coração, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 222.0,
+      "proteina_g": 12.6,
+      "lipideos_g": 18.6,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 395,
+    "descricao": "Frango, coração, grelhado",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 207.0,
+      "proteina_g": 22.4,
+      "lipideos_g": 12.1,
+      "carboidrato_g": 0.6,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 396,
+    "descricao": "Frango, coxa, com pele, assada",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 215.0,
+      "proteina_g": 28.5,
+      "lipideos_g": 10.4,
+      "carboidrato_g": 0.1,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 397,
+    "descricao": "Frango, coxa, com pele, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 161.0,
+      "proteina_g": 17.1,
+      "lipideos_g": 9.8,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 398,
+    "descricao": "Frango, coxa, sem pele, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 167.0,
+      "proteina_g": 26.9,
+      "lipideos_g": 5.8,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 399,
+    "descricao": "Frango, coxa, sem pele, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 120.0,
+      "proteina_g": 17.8,
+      "lipideos_g": 4.9,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 400,
+    "descricao": "Frango, fígado, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 106.0,
+      "proteina_g": 17.6,
+      "lipideos_g": 3.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 401,
+    "descricao": "Frango, filé, à milanesa",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 221.0,
+      "proteina_g": 28.5,
+      "lipideos_g": 7.8,
+      "carboidrato_g": 7.5,
+      "fibra_g": 1.1
+    }
+  },
+  {
+    "codigo": 402,
+    "descricao": "Frango, inteiro, com pele, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 226.0,
+      "proteina_g": 16.4,
+      "lipideos_g": 17.3,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 403,
+    "descricao": "Frango, inteiro, sem pele, assado",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 187.0,
+      "proteina_g": 28.0,
+      "lipideos_g": 7.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 404,
+    "descricao": "Frango, inteiro, sem pele, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 170.0,
+      "proteina_g": 25.0,
+      "lipideos_g": 7.1,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 405,
+    "descricao": "Frango, inteiro, sem pele, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 129.0,
+      "proteina_g": 20.6,
+      "lipideos_g": 4.6,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 406,
+    "descricao": "Frango, peito, com pele, assado",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 212.0,
+      "proteina_g": 33.4,
+      "lipideos_g": 7.6,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 407,
+    "descricao": "Frango, peito, com pele, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 149.0,
+      "proteina_g": 20.8,
+      "lipideos_g": 6.7,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 408,
+    "descricao": "Frango, peito, sem pele, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 163.0,
+      "proteina_g": 31.5,
+      "lipideos_g": 3.2,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 409,
+    "descricao": "Frango, peito, sem pele, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 119.0,
+      "proteina_g": 21.5,
+      "lipideos_g": 3.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 410,
+    "descricao": "Frango, peito, sem pele, grelhado",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 159.0,
+      "proteina_g": 32.0,
+      "lipideos_g": 2.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 411,
+    "descricao": "Frango, sobrecoxa, com pele, assada",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 260.0,
+      "proteina_g": 28.7,
+      "lipideos_g": 15.2,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 412,
+    "descricao": "Frango, sobrecoxa, com pele, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 255.0,
+      "proteina_g": 15.5,
+      "lipideos_g": 20.9,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 413,
+    "descricao": "Frango, sobrecoxa, sem pele, assada",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 233.0,
+      "proteina_g": 29.2,
+      "lipideos_g": 12.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 414,
+    "descricao": "Frango, sobrecoxa, sem pele, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 162.0,
+      "proteina_g": 17.6,
+      "lipideos_g": 9.6,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 415,
+    "descricao": "Hambúrguer, bovino, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 215.0,
+      "proteina_g": 13.2,
+      "lipideos_g": 16.2,
+      "carboidrato_g": 4.2,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 416,
+    "descricao": "Hambúrguer, bovino, frito",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 258.0,
+      "proteina_g": 20.0,
+      "lipideos_g": 17.0,
+      "carboidrato_g": 6.3,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 417,
+    "descricao": "Hambúrguer, bovino, grelhado",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 210.0,
+      "proteina_g": 13.2,
+      "lipideos_g": 12.4,
+      "carboidrato_g": 11.3,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 418,
+    "descricao": "Lingüiça, frango, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 218.0,
+      "proteina_g": 14.2,
+      "lipideos_g": 17.4,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 419,
+    "descricao": "Lingüiça, frango, frita",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 245.0,
+      "proteina_g": 18.3,
+      "lipideos_g": 18.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 420,
+    "descricao": "Lingüiça, frango, grelhada",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 244.0,
+      "proteina_g": 18.2,
+      "lipideos_g": 18.4,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 421,
+    "descricao": "Lingüiça, porco, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 227.0,
+      "proteina_g": 16.1,
+      "lipideos_g": 17.6,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 422,
+    "descricao": "Lingüiça, porco, frita",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 280.0,
+      "proteina_g": 20.5,
+      "lipideos_g": 21.3,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 423,
+    "descricao": "Lingüiça, porco, grelhada",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 296.0,
+      "proteina_g": 23.2,
+      "lipideos_g": 21.9,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 424,
+    "descricao": "Mortadela",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 269.0,
+      "proteina_g": 12.0,
+      "lipideos_g": 21.6,
+      "carboidrato_g": 5.8,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 425,
+    "descricao": "Peru, congelado, assado",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 163.0,
+      "proteina_g": 26.2,
+      "lipideos_g": 5.7,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 426,
+    "descricao": "Peru, congelado, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 94.0,
+      "proteina_g": 18.1,
+      "lipideos_g": 1.8,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 427,
+    "descricao": "Porco, bisteca, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 164.0,
+      "proteina_g": 21.5,
+      "lipideos_g": 8.0,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 428,
+    "descricao": "Porco, bisteca, frita",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 311.0,
+      "proteina_g": 33.7,
+      "lipideos_g": 18.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 429,
+    "descricao": "Porco, bisteca, grelhada",
+    "estado_preparo": "grelhado",
+    "nutrientes": {
+      "energia_kcal": 280.0,
+      "proteina_g": 28.9,
+      "lipideos_g": 17.4,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 430,
+    "descricao": "Porco, costela, assada",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 402.0,
+      "proteina_g": 30.2,
+      "lipideos_g": 30.3,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 431,
+    "descricao": "Porco, costela, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 256.0,
+      "proteina_g": 18.0,
+      "lipideos_g": 19.8,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 432,
+    "descricao": "Porco, lombo, assado",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 210.0,
+      "proteina_g": 35.7,
+      "lipideos_g": 6.4,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 433,
+    "descricao": "Porco, lombo, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 176.0,
+      "proteina_g": 22.6,
+      "lipideos_g": 8.8,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 434,
+    "descricao": "Porco, orelha, salgada, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 258.0,
+      "proteina_g": 18.5,
+      "lipideos_g": 19.9,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 435,
+    "descricao": "Porco, pernil, assado",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 262.0,
+      "proteina_g": 32.1,
+      "lipideos_g": 13.9,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 436,
+    "descricao": "Porco, pernil, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 186.0,
+      "proteina_g": 20.1,
+      "lipideos_g": 11.1,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 437,
+    "descricao": "Porco, rabo, salgado, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 377.0,
+      "proteina_g": 15.6,
+      "lipideos_g": 34.5,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 438,
+    "descricao": "Presunto, com capa de gordura",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 128.0,
+      "proteina_g": 14.4,
+      "lipideos_g": 6.8,
+      "carboidrato_g": 1.4,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 439,
+    "descricao": "Presunto, sem capa de gordura",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 94.0,
+      "proteina_g": 14.3,
+      "lipideos_g": 2.7,
+      "carboidrato_g": 2.1,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 440,
+    "descricao": "Quibe, assado",
+    "estado_preparo": "assado",
+    "nutrientes": {
+      "energia_kcal": 136.0,
+      "proteina_g": 14.6,
+      "lipideos_g": 2.7,
+      "carboidrato_g": 12.9,
+      "fibra_g": 1.9
+    }
+  },
+  {
+    "codigo": 441,
+    "descricao": "Quibe, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 109.0,
+      "proteina_g": 12.4,
+      "lipideos_g": 1.7,
+      "carboidrato_g": 10.8,
+      "fibra_g": 1.6
+    }
+  },
+  {
+    "codigo": 443,
+    "descricao": "Salame",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 398.0,
+      "proteina_g": 25.8,
+      "lipideos_g": 30.6,
+      "carboidrato_g": 2.9,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 444,
+    "descricao": "Toucinho, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 593.0,
+      "proteina_g": 11.5,
+      "lipideos_g": 60.3,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 445,
+    "descricao": "Toucinho, frito",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 697.0,
+      "proteina_g": 27.3,
+      "lipideos_g": 64.3,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 446,
+    "descricao": "Bebida láctea, pêssego",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 55.0,
+      "proteina_g": 2.1,
+      "lipideos_g": 1.9,
+      "carboidrato_g": 7.6,
+      "fibra_g": 0.3
+    }
+  },
+  {
+    "codigo": 447,
+    "descricao": "Creme de Leite",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 221.0,
+      "proteina_g": 1.5,
+      "lipideos_g": 22.5,
+      "carboidrato_g": 4.5,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 448,
+    "descricao": "Iogurte, natural",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 51.0,
+      "proteina_g": 4.1,
+      "lipideos_g": 3.0,
+      "carboidrato_g": 1.9,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 449,
+    "descricao": "Iogurte, natural, desnatado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 41.0,
+      "proteina_g": 3.8,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 5.8,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 450,
+    "descricao": "Iogurte, sabor abacaxi",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": null,
+      "proteina_g": null,
+      "lipideos_g": null,
+      "carboidrato_g": null,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 451,
+    "descricao": "Iogurte, sabor morango",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 70.0,
+      "proteina_g": 2.7,
+      "lipideos_g": 2.3,
+      "carboidrato_g": 9.7,
+      "fibra_g": 0.2
+    }
+  },
+  {
+    "codigo": 452,
+    "descricao": "Iogurte, sabor pêssego",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 68.0,
+      "proteina_g": 2.5,
+      "lipideos_g": 2.3,
+      "carboidrato_g": 9.4,
+      "fibra_g": 0.7
+    }
+  },
+  {
+    "codigo": 453,
+    "descricao": "Leite, condensado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 313.0,
+      "proteina_g": 7.7,
+      "lipideos_g": 6.7,
+      "carboidrato_g": 57.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 454,
+    "descricao": "Leite, de cabra",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 66.0,
+      "proteina_g": 3.1,
+      "lipideos_g": 3.8,
+      "carboidrato_g": 5.2,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 455,
+    "descricao": "Leite, de vaca, achocolatado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 83.0,
+      "proteina_g": 2.1,
+      "lipideos_g": 2.2,
+      "carboidrato_g": 14.2,
+      "fibra_g": 0.6
+    }
+  },
+  {
+    "codigo": 456,
+    "descricao": "Leite, de vaca, desnatado, pó",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 362.0,
+      "proteina_g": 34.7,
+      "lipideos_g": 0.9,
+      "carboidrato_g": 53.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 457,
+    "descricao": "Leite, de vaca, desnatado, UHT",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": null,
+      "proteina_g": null,
+      "lipideos_g": null,
+      "carboidrato_g": null,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 458,
+    "descricao": "Leite, de vaca, integral",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": null,
+      "proteina_g": null,
+      "lipideos_g": null,
+      "carboidrato_g": null,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 459,
+    "descricao": "Leite, de vaca, integral, pó",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 497.0,
+      "proteina_g": 25.4,
+      "lipideos_g": 26.9,
+      "carboidrato_g": 39.2,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 460,
+    "descricao": "Leite, fermentado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 70.0,
+      "proteina_g": 1.9,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 15.7,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 461,
+    "descricao": "Queijo, minas, frescal",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 264.0,
+      "proteina_g": 17.4,
+      "lipideos_g": 20.2,
+      "carboidrato_g": 3.2,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 462,
+    "descricao": "Queijo, minas, meia cura",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 321.0,
+      "proteina_g": 21.2,
+      "lipideos_g": 24.6,
+      "carboidrato_g": 3.6,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 463,
+    "descricao": "Queijo, mozarela",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 330.0,
+      "proteina_g": 22.6,
+      "lipideos_g": 25.2,
+      "carboidrato_g": 3.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 464,
+    "descricao": "Queijo, parmesão",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 453.0,
+      "proteina_g": 35.6,
+      "lipideos_g": 33.5,
+      "carboidrato_g": 1.7,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 465,
+    "descricao": "Queijo, pasteurizado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 303.0,
+      "proteina_g": 9.4,
+      "lipideos_g": 27.4,
+      "carboidrato_g": 5.7,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 466,
+    "descricao": "Queijo, petit suisse, morango",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 121.0,
+      "proteina_g": 5.8,
+      "lipideos_g": 2.8,
+      "carboidrato_g": 18.5,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 467,
+    "descricao": "Queijo, prato",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 360.0,
+      "proteina_g": 22.7,
+      "lipideos_g": 29.1,
+      "carboidrato_g": 1.9,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 468,
+    "descricao": "Queijo, requeijão, cremoso",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 257.0,
+      "proteina_g": 9.6,
+      "lipideos_g": 23.4,
+      "carboidrato_g": 2.4,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 469,
+    "descricao": "Queijo, ricota",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 140.0,
+      "proteina_g": 12.6,
+      "lipideos_g": 8.1,
+      "carboidrato_g": 3.8,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 470,
+    "descricao": "Bebida isotônica, sabores variados",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 26.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 6.4,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 471,
+    "descricao": "Café, infusão 10%",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 9.0,
+      "proteina_g": 0.7,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 1.5,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 473,
+    "descricao": "Cana, caldo de",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 65.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 18.2,
+      "fibra_g": 0.1
+    }
+  },
+  {
+    "codigo": 474,
+    "descricao": "Cerveja, pilsen 2",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 41.0,
+      "proteina_g": 0.6,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 3.3,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 475,
+    "descricao": "Chá, erva-doce, infusão 5%",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 1.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 0.4,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 476,
+    "descricao": "Chá, mate, infusão 5%",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 3.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 0.6,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 477,
+    "descricao": "Chá, preto, infusão 5%",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 2.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 0.6,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 478,
+    "descricao": "Coco, água de",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 22.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 5.3,
+      "fibra_g": 0.1
+    }
+  },
+  {
+    "codigo": 479,
+    "descricao": "Refrigerante, tipo água tônica",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 31.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 8.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 480,
+    "descricao": "Refrigerante, tipo cola",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 34.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 8.7,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 481,
+    "descricao": "Refrigerante, tipo guaraná",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 39.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 10.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 482,
+    "descricao": "Refrigerante, tipo laranja",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 46.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 11.8,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 483,
+    "descricao": "Refrigerante, tipo limão",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 40.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 10.3,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 484,
+    "descricao": "Omelete, de queijo",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 268.0,
+      "proteina_g": 15.6,
+      "lipideos_g": 22.0,
+      "carboidrato_g": 0.4,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 485,
+    "descricao": "Ovo, de codorna, inteiro, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 177.0,
+      "proteina_g": 13.7,
+      "lipideos_g": 12.7,
+      "carboidrato_g": 0.8,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 486,
+    "descricao": "Ovo, de galinha, clara, cozida/10minutos",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 59.0,
+      "proteina_g": 13.4,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 487,
+    "descricao": "Ovo, de galinha, gema, cozida/10minutos",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 353.0,
+      "proteina_g": 15.9,
+      "lipideos_g": 30.8,
+      "carboidrato_g": 1.6,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 488,
+    "descricao": "Ovo, de galinha, inteiro, cozido/10minutos",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 146.0,
+      "proteina_g": 13.3,
+      "lipideos_g": 9.5,
+      "carboidrato_g": 0.6,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 489,
+    "descricao": "Ovo, de galinha, inteiro, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 143.0,
+      "proteina_g": 13.0,
+      "lipideos_g": 8.9,
+      "carboidrato_g": 1.6,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 490,
+    "descricao": "Ovo, de galinha, inteiro, frito",
+    "estado_preparo": "frito",
+    "nutrientes": {
+      "energia_kcal": 240.0,
+      "proteina_g": 15.6,
+      "lipideos_g": 18.6,
+      "carboidrato_g": 1.2,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 491,
+    "descricao": "Achocolatado, pó",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 401.0,
+      "proteina_g": 4.2,
+      "lipideos_g": 2.2,
+      "carboidrato_g": 91.2,
+      "fibra_g": 3.9
+    }
+  },
+  {
+    "codigo": 492,
+    "descricao": "Açúcar, cristal",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 387.0,
+      "proteina_g": 0.3,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 99.6,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 493,
+    "descricao": "Açúcar, mascavo",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 369.0,
+      "proteina_g": 0.8,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 94.5,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 494,
+    "descricao": "Açúcar, refinado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 387.0,
+      "proteina_g": 0.3,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 99.5,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 495,
+    "descricao": "Chocolate, ao leite",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 540.0,
+      "proteina_g": 7.2,
+      "lipideos_g": 30.3,
+      "carboidrato_g": 59.6,
+      "fibra_g": 2.2
+    }
+  },
+  {
+    "codigo": 496,
+    "descricao": "Chocolate, ao leite, com castanha do Pará",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 559.0,
+      "proteina_g": 7.4,
+      "lipideos_g": 34.2,
+      "carboidrato_g": 55.4,
+      "fibra_g": 2.5
+    }
+  },
+  {
+    "codigo": 497,
+    "descricao": "Chocolate, ao leite, dietético",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 557.0,
+      "proteina_g": 6.9,
+      "lipideos_g": 33.8,
+      "carboidrato_g": 56.3,
+      "fibra_g": 2.8
+    }
+  },
+  {
+    "codigo": 498,
+    "descricao": "Chocolate, meio amargo",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 475.0,
+      "proteina_g": 4.9,
+      "lipideos_g": 29.9,
+      "carboidrato_g": 62.4,
+      "fibra_g": 4.9
+    }
+  },
+  {
+    "codigo": 499,
+    "descricao": "Cocada branca",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 449.0,
+      "proteina_g": 1.1,
+      "lipideos_g": 13.6,
+      "carboidrato_g": 81.4,
+      "fibra_g": 3.6
+    }
+  },
+  {
+    "codigo": 500,
+    "descricao": "Doce, de abóbora, cremoso",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 199.0,
+      "proteina_g": 0.9,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 54.6,
+      "fibra_g": 2.3
+    }
+  },
+  {
+    "codigo": 501,
+    "descricao": "Doce, de leite, cremoso",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 306.0,
+      "proteina_g": 5.5,
+      "lipideos_g": 6.0,
+      "carboidrato_g": 59.5,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 502,
+    "descricao": "Geléia, mocotó, natural",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 106.0,
+      "proteina_g": 2.1,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 24.2,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 503,
+    "descricao": "Glicose de milho",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 292.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 79.4,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 504,
+    "descricao": "Maria mole",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 301.0,
+      "proteina_g": 3.8,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 73.6,
+      "fibra_g": 0.7
+    }
+  },
+  {
+    "codigo": 505,
+    "descricao": "Maria mole, coco queimado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 307.0,
+      "proteina_g": 3.9,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 75.1,
+      "fibra_g": 0.6
+    }
+  },
+  {
+    "codigo": 506,
+    "descricao": "Marmelada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 257.0,
+      "proteina_g": 0.4,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 70.8,
+      "fibra_g": 4.1
+    }
+  },
+  {
+    "codigo": 507,
+    "descricao": "Mel, de abelha",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 309.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 84.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 508,
+    "descricao": "Melado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 297.0,
+      "proteina_g": 0.0,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 76.6,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 509,
+    "descricao": "Quindim",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 411.0,
+      "proteina_g": 4.7,
+      "lipideos_g": 24.4,
+      "carboidrato_g": 46.3,
+      "fibra_g": 3.2
+    }
+  },
+  {
+    "codigo": 510,
+    "descricao": "Rapadura",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 352.0,
+      "proteina_g": 1.0,
+      "lipideos_g": 0.1,
+      "carboidrato_g": 90.8,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 511,
+    "descricao": "Café, pó, torrado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 419.0,
+      "proteina_g": 14.7,
+      "lipideos_g": 11.9,
+      "carboidrato_g": 65.8,
+      "fibra_g": 51.2
+    }
+  },
+  {
+    "codigo": 512,
+    "descricao": "Capuccino, pó",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 417.0,
+      "proteina_g": 11.3,
+      "lipideos_g": 8.6,
+      "carboidrato_g": 73.6,
+      "fibra_g": 2.4
+    }
+  },
+  {
+    "codigo": 514,
+    "descricao": "Fermento, biológico, levedura, tablete",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 90.0,
+      "proteina_g": 17.0,
+      "lipideos_g": 1.5,
+      "carboidrato_g": 7.7,
+      "fibra_g": 4.2
+    }
+  },
+  {
+    "codigo": 515,
+    "descricao": "Gelatina, sabores variados, pó",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 380.0,
+      "proteina_g": 8.9,
+      "lipideos_g": 0.0,
+      "carboidrato_g": 89.2,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 518,
+    "descricao": "Shoyu",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 61.0,
+      "proteina_g": 3.3,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 11.6,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 520,
+    "descricao": "Azeitona, preta, conserva",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 194.0,
+      "proteina_g": 1.2,
+      "lipideos_g": 20.3,
+      "carboidrato_g": 5.5,
+      "fibra_g": 4.6
+    }
+  },
+  {
+    "codigo": 521,
+    "descricao": "Azeitona, verde, conserva",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 137.0,
+      "proteina_g": 0.9,
+      "lipideos_g": 14.2,
+      "carboidrato_g": 4.1,
+      "fibra_g": 3.8
+    }
+  },
+  {
+    "codigo": 522,
+    "descricao": "Chantilly, spray, com gordura vegetal",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 315.0,
+      "proteina_g": 0.5,
+      "lipideos_g": 27.3,
+      "carboidrato_g": 16.9,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 523,
+    "descricao": "Leite, de coco",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 166.0,
+      "proteina_g": 1.0,
+      "lipideos_g": 18.4,
+      "carboidrato_g": 2.2,
+      "fibra_g": 0.7
+    }
+  },
+  {
+    "codigo": 524,
+    "descricao": "Maionese, tradicional com ovos",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 302.0,
+      "proteina_g": 0.6,
+      "lipideos_g": 30.5,
+      "carboidrato_g": 7.9,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 525,
+    "descricao": "Acarajé",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 289.0,
+      "proteina_g": 8.3,
+      "lipideos_g": 19.9,
+      "carboidrato_g": 19.1,
+      "fibra_g": 9.4
+    }
+  },
+  {
+    "codigo": 526,
+    "descricao": "Arroz carreteiro",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 154.0,
+      "proteina_g": 10.8,
+      "lipideos_g": 7.1,
+      "carboidrato_g": 11.6,
+      "fibra_g": 1.5
+    }
+  },
+  {
+    "codigo": 527,
+    "descricao": "Baião de dois, arroz e feijão-de-corda",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 136.0,
+      "proteina_g": 6.2,
+      "lipideos_g": 3.2,
+      "carboidrato_g": 20.4,
+      "fibra_g": 5.1
+    }
+  },
+  {
+    "codigo": 528,
+    "descricao": "Barreado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 165.0,
+      "proteina_g": 18.3,
+      "lipideos_g": 9.5,
+      "carboidrato_g": 0.2,
+      "fibra_g": 0.1
+    }
+  },
+  {
+    "codigo": 529,
+    "descricao": "Bife à cavalo, com contra filé",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 291.0,
+      "proteina_g": 23.7,
+      "lipideos_g": 21.1,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 530,
+    "descricao": "Bolinho de arroz",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 274.0,
+      "proteina_g": 8.0,
+      "lipideos_g": 8.3,
+      "carboidrato_g": 41.7,
+      "fibra_g": 2.7
+    }
+  },
+  {
+    "codigo": 531,
+    "descricao": "Camarão à baiana",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 101.0,
+      "proteina_g": 7.9,
+      "lipideos_g": 6.0,
+      "carboidrato_g": 3.2,
+      "fibra_g": 0.4
+    }
+  },
+  {
+    "codigo": 532,
+    "descricao": "Charuto, de repolho",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 78.0,
+      "proteina_g": 6.8,
+      "lipideos_g": 1.1,
+      "carboidrato_g": 10.1,
+      "fibra_g": 1.5
+    }
+  },
+  {
+    "codigo": 533,
+    "descricao": "Cuscuz, de milho, cozido com sal",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 113.0,
+      "proteina_g": 2.2,
+      "lipideos_g": 0.7,
+      "carboidrato_g": 25.3,
+      "fibra_g": 2.1
+    }
+  },
+  {
+    "codigo": 534,
+    "descricao": "Cuscuz, paulista",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 142.0,
+      "proteina_g": 2.6,
+      "lipideos_g": 4.6,
+      "carboidrato_g": 22.5,
+      "fibra_g": 2.4
+    }
+  },
+  {
+    "codigo": 535,
+    "descricao": "Cuxá, molho",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 80.0,
+      "proteina_g": 5.6,
+      "lipideos_g": 3.6,
+      "carboidrato_g": 5.7,
+      "fibra_g": 3.0
+    }
+  },
+  {
+    "codigo": 536,
+    "descricao": "Dobradinha",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 125.0,
+      "proteina_g": 19.8,
+      "lipideos_g": 4.4,
+      "carboidrato_g": 0.0,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 539,
+    "descricao": "Feijão tropeiro mineiro",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 152.0,
+      "proteina_g": 10.2,
+      "lipideos_g": 6.8,
+      "carboidrato_g": 19.6,
+      "fibra_g": 3.6
+    }
+  },
+  {
+    "codigo": 540,
+    "descricao": "Feijoada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 117.0,
+      "proteina_g": 8.7,
+      "lipideos_g": 6.5,
+      "carboidrato_g": 11.6,
+      "fibra_g": 5.1
+    }
+  },
+  {
+    "codigo": 541,
+    "descricao": "Frango, com açafrão",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 113.0,
+      "proteina_g": 9.7,
+      "lipideos_g": 6.2,
+      "carboidrato_g": 4.1,
+      "fibra_g": 0.2
+    }
+  },
+  {
+    "codigo": 542,
+    "descricao": "Macarrão, molho bolognesa",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 120.0,
+      "proteina_g": 4.9,
+      "lipideos_g": 0.9,
+      "carboidrato_g": 22.5,
+      "fibra_g": 0.8
+    }
+  },
+  {
+    "codigo": 543,
+    "descricao": "Maniçoba",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 134.0,
+      "proteina_g": 10.0,
+      "lipideos_g": 8.7,
+      "carboidrato_g": 3.4,
+      "fibra_g": 2.2
+    }
+  },
+  {
+    "codigo": 544,
+    "descricao": "Quibebe",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 86.0,
+      "proteina_g": 8.6,
+      "lipideos_g": 2.7,
+      "carboidrato_g": 6.6,
+      "fibra_g": 1.7
+    }
+  },
+  {
+    "codigo": 545,
+    "descricao": "Salada, de legumes, com maionese",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 96.0,
+      "proteina_g": 1.1,
+      "lipideos_g": 7.0,
+      "carboidrato_g": 8.9,
+      "fibra_g": 2.2
+    }
+  },
+  {
+    "codigo": 546,
+    "descricao": "Salada, de legumes, cozida no vapor",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 35.0,
+      "proteina_g": 2.0,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 7.1,
+      "fibra_g": 2.5
+    }
+  },
+  {
+    "codigo": 547,
+    "descricao": "Salpicão, de frango",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 148.0,
+      "proteina_g": 13.9,
+      "lipideos_g": 7.8,
+      "carboidrato_g": 4.6,
+      "fibra_g": 0.4
+    }
+  },
+  {
+    "codigo": 549,
+    "descricao": "Tabule",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 57.0,
+      "proteina_g": 2.0,
+      "lipideos_g": 1.2,
+      "carboidrato_g": 10.6,
+      "fibra_g": 2.1
+    }
+  },
+  {
+    "codigo": 550,
+    "descricao": "Tacacá",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 47.0,
+      "proteina_g": 7.0,
+      "lipideos_g": 0.4,
+      "carboidrato_g": 3.4,
+      "fibra_g": 0.2
+    }
+  },
+  {
+    "codigo": 551,
+    "descricao": "Tapioca, com manteiga",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 348.0,
+      "proteina_g": 0.1,
+      "lipideos_g": 10.9,
+      "carboidrato_g": 63.6,
+      "fibra_g": 0.0
+    }
+  },
+  {
+    "codigo": 552,
+    "descricao": "Tucupi, com pimenta-de-cheiro",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 27.0,
+      "proteina_g": 2.1,
+      "lipideos_g": 0.3,
+      "carboidrato_g": 4.7,
+      "fibra_g": 0.2
+    }
+  },
+  {
+    "codigo": 553,
+    "descricao": "Vaca atolada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 145.0,
+      "proteina_g": 5.1,
+      "lipideos_g": 9.3,
+      "carboidrato_g": 10.1,
+      "fibra_g": 2.3
+    }
+  },
+  {
+    "codigo": 554,
+    "descricao": "Vatapá",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 255.0,
+      "proteina_g": 6.0,
+      "lipideos_g": 23.2,
+      "carboidrato_g": 9.7,
+      "fibra_g": 1.7
+    }
+  },
+  {
+    "codigo": 555,
+    "descricao": "Virado à paulista",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 307.0,
+      "proteina_g": 10.2,
+      "lipideos_g": 25.6,
+      "carboidrato_g": 14.1,
+      "fibra_g": 2.2
+    }
+  },
+  {
+    "codigo": 556,
+    "descricao": "Yakisoba",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 113.0,
+      "proteina_g": 7.5,
+      "lipideos_g": 2.6,
+      "carboidrato_g": 18.3,
+      "fibra_g": 1.1
+    }
+  },
+  {
+    "codigo": 557,
+    "descricao": "Amendoim, grão, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 544.0,
+      "proteina_g": 27.2,
+      "lipideos_g": 43.9,
+      "carboidrato_g": 20.3,
+      "fibra_g": 8.0
+    }
+  },
+  {
+    "codigo": 558,
+    "descricao": "Amendoim, torrado, salgado",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 606.0,
+      "proteina_g": 22.5,
+      "lipideos_g": 54.0,
+      "carboidrato_g": 18.7,
+      "fibra_g": 7.8
+    }
+  },
+  {
+    "codigo": 559,
+    "descricao": "Ervilha, em vagem",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 88.0,
+      "proteina_g": 7.5,
+      "lipideos_g": 0.5,
+      "carboidrato_g": 14.2,
+      "fibra_g": 9.7
+    }
+  },
+  {
+    "codigo": 560,
+    "descricao": "Ervilha, enlatada, drenada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 74.0,
+      "proteina_g": 4.6,
+      "lipideos_g": 0.4,
+      "carboidrato_g": 13.4,
+      "fibra_g": 5.1
+    }
+  },
+  {
+    "codigo": 561,
+    "descricao": "Feijão, carioca, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 76.0,
+      "proteina_g": 4.8,
+      "lipideos_g": 0.5,
+      "carboidrato_g": 13.6,
+      "fibra_g": 8.5
+    }
+  },
+  {
+    "codigo": 562,
+    "descricao": "Feijão, carioca, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 329.0,
+      "proteina_g": 20.0,
+      "lipideos_g": 1.3,
+      "carboidrato_g": 61.2,
+      "fibra_g": 18.4
+    }
+  },
+  {
+    "codigo": 563,
+    "descricao": "Feijão, fradinho, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 78.0,
+      "proteina_g": 5.1,
+      "lipideos_g": 0.6,
+      "carboidrato_g": 13.5,
+      "fibra_g": 7.5
+    }
+  },
+  {
+    "codigo": 564,
+    "descricao": "Feijão, fradinho, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 339.0,
+      "proteina_g": 20.2,
+      "lipideos_g": 2.4,
+      "carboidrato_g": 61.2,
+      "fibra_g": 23.6
+    }
+  },
+  {
+    "codigo": 565,
+    "descricao": "Feijão, jalo, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 93.0,
+      "proteina_g": 6.1,
+      "lipideos_g": 0.5,
+      "carboidrato_g": 16.5,
+      "fibra_g": 13.9
+    }
+  },
+  {
+    "codigo": 566,
+    "descricao": "Feijão, jalo, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 328.0,
+      "proteina_g": 20.1,
+      "lipideos_g": 0.9,
+      "carboidrato_g": 61.5,
+      "fibra_g": 30.3
+    }
+  },
+  {
+    "codigo": 567,
+    "descricao": "Feijão, preto, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 77.0,
+      "proteina_g": 4.5,
+      "lipideos_g": 0.5,
+      "carboidrato_g": 14.0,
+      "fibra_g": 8.4
+    }
+  },
+  {
+    "codigo": 568,
+    "descricao": "Feijão, preto, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 324.0,
+      "proteina_g": 21.3,
+      "lipideos_g": 1.2,
+      "carboidrato_g": 58.8,
+      "fibra_g": 21.8
+    }
+  },
+  {
+    "codigo": 569,
+    "descricao": "Feijão, rajado, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 85.0,
+      "proteina_g": 5.5,
+      "lipideos_g": 0.4,
+      "carboidrato_g": 15.3,
+      "fibra_g": 9.3
+    }
+  },
+  {
+    "codigo": 570,
+    "descricao": "Feijão, rajado, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 326.0,
+      "proteina_g": 17.3,
+      "lipideos_g": 1.2,
+      "carboidrato_g": 62.9,
+      "fibra_g": 24.0
+    }
+  },
+  {
+    "codigo": 571,
+    "descricao": "Feijão, rosinha, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 68.0,
+      "proteina_g": 4.5,
+      "lipideos_g": 0.5,
+      "carboidrato_g": 11.8,
+      "fibra_g": 4.8
+    }
+  },
+  {
+    "codigo": 572,
+    "descricao": "Feijão, rosinha, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 337.0,
+      "proteina_g": 20.9,
+      "lipideos_g": 1.3,
+      "carboidrato_g": 62.2,
+      "fibra_g": 20.6
+    }
+  },
+  {
+    "codigo": 573,
+    "descricao": "Feijão, roxo, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 77.0,
+      "proteina_g": 5.7,
+      "lipideos_g": 0.5,
+      "carboidrato_g": 12.9,
+      "fibra_g": 11.5
+    }
+  },
+  {
+    "codigo": 574,
+    "descricao": "Feijão, roxo, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 331.0,
+      "proteina_g": 22.2,
+      "lipideos_g": 1.2,
+      "carboidrato_g": 60.0,
+      "fibra_g": 33.8
+    }
+  },
+  {
+    "codigo": 575,
+    "descricao": "Grão-de-bico, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 355.0,
+      "proteina_g": 21.2,
+      "lipideos_g": 5.4,
+      "carboidrato_g": 57.9,
+      "fibra_g": 12.4
+    }
+  },
+  {
+    "codigo": 576,
+    "descricao": "Guandu, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 344.0,
+      "proteina_g": 19.0,
+      "lipideos_g": 2.1,
+      "carboidrato_g": 64.0,
+      "fibra_g": 21.3
+    }
+  },
+  {
+    "codigo": 577,
+    "descricao": "Lentilha, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 93.0,
+      "proteina_g": 6.3,
+      "lipideos_g": 0.5,
+      "carboidrato_g": 16.3,
+      "fibra_g": 7.9
+    }
+  },
+  {
+    "codigo": 578,
+    "descricao": "Lentilha, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 339.0,
+      "proteina_g": 23.2,
+      "lipideos_g": 0.8,
+      "carboidrato_g": 62.0,
+      "fibra_g": 16.9
+    }
+  },
+  {
+    "codigo": 579,
+    "descricao": "Paçoca, amendoim",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 487.0,
+      "proteina_g": 16.0,
+      "lipideos_g": 26.1,
+      "carboidrato_g": 52.4,
+      "fibra_g": 7.3
+    }
+  },
+  {
+    "codigo": 580,
+    "descricao": "Pé-de-moleque, amendoim",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 503.0,
+      "proteina_g": 13.2,
+      "lipideos_g": 28.0,
+      "carboidrato_g": 54.7,
+      "fibra_g": 3.4
+    }
+  },
+  {
+    "codigo": 581,
+    "descricao": "Soja, farinha",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 404.0,
+      "proteina_g": 36.0,
+      "lipideos_g": 14.6,
+      "carboidrato_g": 38.4,
+      "fibra_g": 20.2
+    }
+  },
+  {
+    "codigo": 582,
+    "descricao": "Soja, extrato solúvel, natural, fluido",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 39.0,
+      "proteina_g": 2.4,
+      "lipideos_g": 1.6,
+      "carboidrato_g": 4.3,
+      "fibra_g": 0.4
+    }
+  },
+  {
+    "codigo": 583,
+    "descricao": "Soja, extrato solúvel, pó",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 459.0,
+      "proteina_g": 35.7,
+      "lipideos_g": 26.2,
+      "carboidrato_g": 28.5,
+      "fibra_g": 7.3
+    }
+  },
+  {
+    "codigo": 584,
+    "descricao": "Soja, queijo (tofu)",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 64.0,
+      "proteina_g": 6.6,
+      "lipideos_g": 4.0,
+      "carboidrato_g": 2.1,
+      "fibra_g": 0.8
+    }
+  },
+  {
+    "codigo": 585,
+    "descricao": "Tremoço, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 381.0,
+      "proteina_g": 33.6,
+      "lipideos_g": 10.3,
+      "carboidrato_g": 43.8,
+      "fibra_g": 32.3
+    }
+  },
+  {
+    "codigo": 586,
+    "descricao": "Tremoço, em conserva",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 121.0,
+      "proteina_g": 11.1,
+      "lipideos_g": 3.8,
+      "carboidrato_g": 12.4,
+      "fibra_g": 14.4
+    }
+  },
+  {
+    "codigo": 587,
+    "descricao": "Amêndoa, torrada, salgada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 581.0,
+      "proteina_g": 18.6,
+      "lipideos_g": 47.3,
+      "carboidrato_g": 29.5,
+      "fibra_g": 11.6
+    }
+  },
+  {
+    "codigo": 588,
+    "descricao": "Castanha-de-caju, torrada, salgada",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 570.0,
+      "proteina_g": 18.5,
+      "lipideos_g": 46.3,
+      "carboidrato_g": 29.1,
+      "fibra_g": 3.7
+    }
+  },
+  {
+    "codigo": 589,
+    "descricao": "Castanha-do-Brasil, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 643.0,
+      "proteina_g": 14.5,
+      "lipideos_g": 63.5,
+      "carboidrato_g": 15.1,
+      "fibra_g": 7.9
+    }
+  },
+  {
+    "codigo": 590,
+    "descricao": "Coco, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 406.0,
+      "proteina_g": 3.7,
+      "lipideos_g": 42.0,
+      "carboidrato_g": 10.4,
+      "fibra_g": 5.4
+    }
+  },
+  {
+    "codigo": 591,
+    "descricao": "Coco, verde, cru",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": null,
+      "proteina_g": null,
+      "lipideos_g": null,
+      "carboidrato_g": null,
+      "fibra_g": null
+    }
+  },
+  {
+    "codigo": 592,
+    "descricao": "Farinha, de mesocarpo de babaçu, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 329.0,
+      "proteina_g": 1.4,
+      "lipideos_g": 0.2,
+      "carboidrato_g": 79.2,
+      "fibra_g": 17.9
+    }
+  },
+  {
+    "codigo": 593,
+    "descricao": "Gergelim, semente",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 584.0,
+      "proteina_g": 21.2,
+      "lipideos_g": 50.4,
+      "carboidrato_g": 21.6,
+      "fibra_g": 11.9
+    }
+  },
+  {
+    "codigo": 594,
+    "descricao": "Linhaça, semente",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 495.0,
+      "proteina_g": 14.1,
+      "lipideos_g": 32.3,
+      "carboidrato_g": 43.3,
+      "fibra_g": 33.5
+    }
+  },
+  {
+    "codigo": 595,
+    "descricao": "Pinhão, cozido",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 174.0,
+      "proteina_g": 3.0,
+      "lipideos_g": 0.7,
+      "carboidrato_g": 43.9,
+      "fibra_g": 15.6
+    }
+  },
+  {
+    "codigo": 596,
+    "descricao": "Pupunha, cozida",
+    "estado_preparo": "cozido",
+    "nutrientes": {
+      "energia_kcal": 219.0,
+      "proteina_g": 2.5,
+      "lipideos_g": 12.8,
+      "carboidrato_g": 29.6,
+      "fibra_g": 4.3
+    }
+  },
+  {
+    "codigo": 597,
+    "descricao": "Noz, crua",
+    "estado_preparo": "cru",
+    "nutrientes": {
+      "energia_kcal": 620.0,
+      "proteina_g": 14.0,
+      "lipideos_g": 59.4,
+      "carboidrato_g": 18.4,
+      "fibra_g": 7.2
+    }
+  }
+]
