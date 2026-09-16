@@ -2,7 +2,7 @@
   "name": "Consulta TACO",
   "short_name": "Tabela TACO",
   "description": "Consulte informações nutricionais da Tabela TACO de forma rápida.",
-  "start_url": "/index.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#f4f4f9",
   "theme_color": "#2980b9",
