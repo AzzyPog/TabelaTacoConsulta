@@ -88,8 +88,7 @@
 
         async function buscarAlimentos(query) {
             try {
-
-                const resposta = await fetch(`http://localhost:8000/api/buscar?q=${query}`);
+                const resposta = await fetch(`https://tabelatacoconsulta.onrender.com/api/buscar?q=${query}`);
                 const alimentos = await resposta.json();
                 
                 mostrarSugestoes(alimentos);
